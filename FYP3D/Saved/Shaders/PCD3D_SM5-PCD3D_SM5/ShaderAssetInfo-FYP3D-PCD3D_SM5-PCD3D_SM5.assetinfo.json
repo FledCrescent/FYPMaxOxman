@@ -64,6 +64,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F1EC2C161772ACBBF67D629F8AAE5268CC9126A1",
+			"Assets": [
+				"/Game/Blender/Level1/Material_003"
+			]
+		},
+		{
 			"ShaderMapHash": "54D71517F1C018C8A83D0A4115261C390AAF12C8",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial"
@@ -82,12 +88,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3E32961A6136DABD74B3B8CCE873E41FDAE489D3",
-			"Assets": [
-				"/Game/Blender/Level1/Material_003"
-			]
-		},
-		{
 			"ShaderMapHash": "3878161EA4485439A1ACC2C6E1C9B338AB53D7F7",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
@@ -103,12 +103,6 @@
 			"ShaderMapHash": "E2DA3020BCFB583D215731D5EF33A42A7C39DB08",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
-			]
-		},
-		{
-			"ShaderMapHash": "6D0CA0204641C922F7F631EF119854F826D1E02F",
-			"Assets": [
-				"/Game/Blender/Level1/Material_002"
 			]
 		},
 		{
@@ -241,12 +235,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "02B1EC40886DCE32A16DAA0A13171F6BD79E5486",
-			"Assets": [
-				"/Game/Blender/Level1/Material"
-			]
-		},
-		{
 			"ShaderMapHash": "9AACCD42FD28B73FFAD733ED7CACCED568E53D1E",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
@@ -259,9 +247,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8660694B928675CD8E554ECCCFD61E267796396D",
+			"ShaderMapHash": "A6A37248F0948DBA0F12822FFB2D4020F77CE725",
 			"Assets": [
-				"/Game/Blender/Level1/Material_005"
+				"/Game/Blender/Level1/Material"
 			]
 		},
 		{
@@ -325,9 +313,11 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F77584611E607A50853739E4209AC2AE119AABB0",
+			"ShaderMapHash": "A52EA1619E9765472236E5A8E20F96F8E4BDFE8F",
 			"Assets": [
-				"/Game/Blender/Level1/Material_006"
+				"/Game/Blender/Level1/Daisie1",
+				"/Game/Blender/Level1/Material_001",
+				"/Game/Blender/Level1/Obtacles/RockMaterial"
 			]
 		},
 		{
@@ -393,13 +383,6 @@
 		{
 			"ShaderMapHash": "69EBA981DA0D9682CE18842B2A79B93135F67E83",
 			"Assets": [
-				"/Game/Blender/Level1/4284_Mat",
-				"/Game/Blender/Level1/CeramicTexturePurple_Mat",
-				"/Game/Blender/Level1/CeramicTextureRed_Mat",
-				"/Game/Blender/Level1/CeramicTextureSkin_Mat",
-				"/Game/Blender/Level1/CeramicTextureSkinBeard_Mat",
-				"/Game/Blender/Level1/Obtacles/VinesTexture_Mat",
-				"/Game/Blender/Level1/WoodTexture_Mat",
 				"/Game/Blender/ModularKit/GrassPNG_Mat",
 				"/Game/Blender/Tree_Branch_Mat"
 			]
@@ -490,21 +473,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B63939A725990B1041E4E2EBDEF55AFD550723F5",
+			"ShaderMapHash": "27D516A70275E8BB0FAEE5BA7FEBBA3122DEA4EF",
 			"Assets": [
-				"/Game/Blender/Level1/Material_004"
+				"/Game/Blender/Level1/Material_005"
 			]
 		},
 		{
 			"ShaderMapHash": "D5BA6DAA70625DE0B173C75E990551535AE8B1F5",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
-			]
-		},
-		{
-			"ShaderMapHash": "349338AB3E65210B896820953A78AB26EFB7C2E3",
-			"Assets": [
-				"/Game/Blender/Level1/Material_007"
 			]
 		},
 		{
@@ -565,6 +542,12 @@
 			"ShaderMapHash": "6EFB8AB7655E4A6171E799EE30BD1CACD0F1E4D4",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DC66E8B8135A11C411B7EEA1649E59841220CD02",
+			"Assets": [
+				"/Game/Blender/Level1/Material_007"
 			]
 		},
 		{
@@ -629,6 +612,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A0DF5DCD2E919BF3A9387C2C47FC4045B931404D",
+			"Assets": [
+				"/Game/Blender/Level1/Material_002"
+			]
+		},
+		{
 			"ShaderMapHash": "C3A2F9D73125A9E48F0C883C414AA98782DB7321",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
@@ -638,6 +627,24 @@
 			"ShaderMapHash": "6D993FD8C690056A20D8CDBB6958445E38BD9733",
 			"Assets": [
 				"/Game/Blender/Forest_Skybox"
+			]
+		},
+		{
+			"ShaderMapHash": "F713D6DFF787C90F4151D688BA81DF3EEC076407",
+			"Assets": [
+				"/Game/Blender/Level1/4284_Mat",
+				"/Game/Blender/Level1/CeramicTexturePurple_Mat",
+				"/Game/Blender/Level1/CeramicTextureRed_Mat",
+				"/Game/Blender/Level1/CeramicTextureSkin_Mat",
+				"/Game/Blender/Level1/CeramicTextureSkinBeard_Mat",
+				"/Game/Blender/Level1/Obtacles/VinesTexture_Mat",
+				"/Game/Blender/Level1/WoodTexture_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "57E4B4E6864FEAB4D20B4F578EF8A16FA008723C",
+			"Assets": [
+				"/Game/Blender/Level1/Material_006"
 			]
 		},
 		{
@@ -655,14 +662,11 @@
 		{
 			"ShaderMapHash": "D1A55BEB2859288652F571CFF523EDFE1A9F6A3C",
 			"Assets": [
-				"/Game/Blender/Level1/Daisie1",
-				"/Game/Blender/Level1/Material_001",
 				"/Game/Blender/Level1/Obtacles/Material_002",
 				"/Game/Blender/Level1/Obtacles/Material_003",
 				"/Game/Blender/Level1/Obtacles/Material_005",
 				"/Game/Blender/Level1/Obtacles/Material_006",
 				"/Game/Blender/Level1/Obtacles/Material_007",
-				"/Game/Blender/Level1/Obtacles/RockMaterial",
 				"/Game/Blender/ModularKit/Material",
 				"/Game/Blender/ModularKit/Material_001"
 			]
@@ -683,6 +687,12 @@
 			"ShaderMapHash": "A44799F1257FDC62D53039D098BC3A4B3A7BEADB",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7C1F47F4D49392D33B2C4D6A41A717D34645D4D3",
+			"Assets": [
+				"/Game/Blender/Level1/Material_004"
 			]
 		},
 		{
