@@ -1,8 +1,8 @@
-﻿Log file open, 05/12/26 12:14:47
+﻿Log file open, 05/12/26 22:38:08
 LogTrace: Initializing trace...
 LogTrace: Finished trace initialization.
 LogInit: Session CrashGUID >====================================================
-         Session CrashGUID >   UECC-Windows-FBED262841B9F9E17BC7109D9584367F
+         Session CrashGUID >   UECC-Windows-18542C9C482A1A416934B0A8B96D0C45
          Session CrashGUID >====================================================
 LogConfig: No local boot hotfix file found at: [../../../../../../Users/Max/OneDrive - De Montfort University/Documents/Year3/Module4/FYPMaxOxman/FYP3D/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
 LogPluginManager: Mounting Engine plugin PlatformCrypto
@@ -61,7 +61,7 @@ LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 51
 LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogDevObjectVersion:   Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
-LogConfig: Branch 'PlatformCrypto' had been unloaded. Reloading on-demand took 0.94ms
+LogConfig: Branch 'PlatformCrypto' had been unloaded. Reloading on-demand took 0.53ms
 LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC.
 LogInit: Object subsystem initialized
 LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
@@ -72,56 +72,55 @@ LogConfig: CVar [[ds.CADTranslator.Meshing.ActivateThinZoneMeshing:0]] deferred 
 LogConfig: CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
 LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
 LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
-LogConfig: Set CVar [[memory.MemoryPressureCriticalThresholdMB:512]]
-[2026.05.12-11.14.47:493][  0]LogInit: Computer: MAXASUSLAPTOP
-[2026.05.12-11.14.47:493][  0]LogInit: User: Max
-[2026.05.12-11.14.47:493][  0]LogInit: CPU Page size=4096, Cores=6
-[2026.05.12-11.14.47:493][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2026.05.12-11.14.48:196][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
-[2026.05.12-11.14.48:196][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx) Virtual=33.7GB
-[2026.05.12-11.14.48:196][  0]LogMemory: Platform Memory Stats for WindowsEditor
-[2026.05.12-11.14.48:196][  0]LogMemory: Process Physical Memory: 58.52 MB used, 59.31 MB peak
-[2026.05.12-11.14.48:196][  0]LogMemory: Process Virtual Memory: 111.82 MB used, 111.82 MB peak
-[2026.05.12-11.14.48:196][  0]LogMemory: Physical Memory: 15703.88 MB used,  16786.91 MB free, 32490.80 MB total
-[2026.05.12-11.14.48:196][  0]LogMemory: Virtual Memory: 26329.95 MB used,  8208.85 MB free, 34538.80 MB total
-[2026.05.12-11.14.48:242][  0]LogAssetRegistry: FAssetRegistry took 0.0041 seconds to start up
-[2026.05.12-11.14.48:249][  0]LogUObjectArray: 438 objects as part of root set at end of initial load.
-[2026.05.12-11.14.48:249][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2026.05.12-11.14.48:249][  0]LogInit: Using OS detected language ().
-[2026.05.12-11.14.48:249][  0]LogInit: Using OS detected locale ().
-[2026.05.12-11.14.48:251][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
-[2026.05.12-11.14.48:253][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
-[2026.05.12-11.14.48:253][  0]LogInit: Using OS detected language ().
-[2026.05.12-11.14.48:253][  0]LogInit: Using OS detected locale ().
-[2026.05.12-11.14.48:253][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
-[2026.05.12-11.14.48:254][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
-[2026.05.12-11.14.48:254][  0]LogPakFile: Display: ProjectDir: ../../../../../../Users/Max/OneDrive - De Montfort University/Documents/Year3/Module4/FYPMaxOxman/FYP3D/
-[2026.05.12-11.14.48:254][  0]LogPakFile: Display: Parsing crypto keys from a crypto key cache file
-[2026.05.12-11.14.48:255][  0]LogPakFile: Engine only spawned 10 worker threads, bumping up to 11!
-[2026.05.12-11.14.48:263][  0]LogPakFile: Display: CompressionFormats in priority order: Oodle, Zlib
-[2026.05.12-11.14.48:263][  0]LogPakFile: Display: Oodle enabled on 'NoPluginCompression' files
-[2026.05.12-11.14.48:265][  0]LogPakFile: Display: Loading response file C:\Program Files\Epic Games\UE_5.5\Engine\Programs\AutomationTool\Saved\ResponseFiles\PakList_FYP3D-Windows.txt
-[2026.05.12-11.14.48:323][  0]LogPakFile: Display: Added 1606 entries to add to pak file.
-[2026.05.12-11.14.48:323][  0]LogPakFile: Display: Collecting files to add to pak file...
-[2026.05.12-11.14.48:346][  0]LogPakFile: Display: Collected 1606 files in 0.02s.
-[2026.05.12-11.14.48:351][  0]LogPakFile: Display: Creating pak C:\Users\Max\OneDrive - De Montfort University\Documents\Year3\Module4\FYPMaxOxman\FYP3D\Saved\StagedBuilds\Windows\FYP3D\Content\Paks\FYP3D-Windows.pak.
-[2026.05.12-11.14.48:370][  0]OodleDataCompression: Display: Oodle v2.9.12 format for pak/iostore with method=Kraken, level=4=Normal
-[2026.05.12-11.14.50:389][  0]LogPakFile: Display: Writing entries (1192/1606)...
-[2026.05.12-11.14.51:275][  0]LogPakFile: Display: Created pak file: C:\Users\Max\OneDrive - De Montfort University\Documents\Year3\Module4\FYPMaxOxman\FYP3D\Saved\StagedBuilds\Windows\FYP3D\Content\Paks\FYP3D-Windows.pak
-[2026.05.12-11.14.51:315][  0]LogPakFile: Display: CompressionFormat 0 [Oodle] : 353 files, 25472281 -> 9047824 bytes
-[2026.05.12-11.14.51:316][  0]LogPakFile: Display: CompressionFormat 2 [None] : 1253 files, 735963 -> 735963 bytes
-[2026.05.12-11.14.51:316][  0]LogPakFile: Display: Added 1606 files, 10397758 bytes total
-[2026.05.12-11.14.51:316][  0]LogPakFile: Display: PrimaryIndex size: 22274 bytes
-[2026.05.12-11.14.51:316][  0]LogPakFile: Display: PathHashIndex size: 48915 bytes
-[2026.05.12-11.14.51:316][  0]LogPakFile: Display: FullDirectoryIndex size: 52259 bytes
-[2026.05.12-11.14.51:316][  0]LogPakFile: Display: Compression summary: 35.52% of original size. Compressed Size 9047824 bytes, Original Size 25472281 bytes. 
-[2026.05.12-11.14.51:316][  0]LogPakFile: Display: Encryption - DISABLED
-[2026.05.12-11.14.51:316][  0]LogPakFile: Display: 
-[2026.05.12-11.14.51:316][  0]LogPakFile: Display: Writer and Compression Threads exited.
-[2026.05.12-11.14.51:316][  0]LogPakFile: Display: UnrealPak executed in 3.063222 seconds
-[2026.05.12-11.14.51:327][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
-[2026.05.12-11.14.51:328][  0]LogExit: Preparing to exit.
-[2026.05.12-11.14.51:333][  0]LogExit: Object subsystem successfully closed.
-[2026.05.12-11.14.51:335][  0]LogPakFile: Destroying PakPlatformFile
-[2026.05.12-11.14.51:338][  0]LogExit: Exiting.
-[2026.05.12-11.14.51:380][  0]Log file closed, 05/12/26 12:14:51
+[2026.05.12-21.38.08:350][  0]LogConfig: Set CVar [[memory.MemoryPressureCriticalThresholdMB:512]]
+[2026.05.12-21.38.08:350][  0]LogInit: Computer: MAXASUSLAPTOP
+[2026.05.12-21.38.08:350][  0]LogInit: User: Max
+[2026.05.12-21.38.08:350][  0]LogInit: CPU Page size=4096, Cores=6
+[2026.05.12-21.38.08:350][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2026.05.12-21.38.08:586][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
+[2026.05.12-21.38.08:586][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx) Virtual=33.7GB
+[2026.05.12-21.38.08:586][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2026.05.12-21.38.08:586][  0]LogMemory: Process Physical Memory: 59.17 MB used, 59.97 MB peak
+[2026.05.12-21.38.08:586][  0]LogMemory: Process Virtual Memory: 112.10 MB used, 112.10 MB peak
+[2026.05.12-21.38.08:586][  0]LogMemory: Physical Memory: 20830.90 MB used,  11659.89 MB free, 32490.80 MB total
+[2026.05.12-21.38.08:586][  0]LogMemory: Virtual Memory: 28434.32 MB used,  6104.48 MB free, 34538.80 MB total
+[2026.05.12-21.38.08:593][  0]LogAssetRegistry: FAssetRegistry took 0.0002 seconds to start up
+[2026.05.12-21.38.08:594][  0]LogUObjectArray: 438 objects as part of root set at end of initial load.
+[2026.05.12-21.38.08:594][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.05.12-21.38.08:594][  0]LogInit: Using OS detected language ().
+[2026.05.12-21.38.08:594][  0]LogInit: Using OS detected locale ().
+[2026.05.12-21.38.08:596][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2026.05.12-21.38.08:596][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2026.05.12-21.38.08:597][  0]LogInit: Using OS detected language ().
+[2026.05.12-21.38.08:597][  0]LogInit: Using OS detected locale ().
+[2026.05.12-21.38.08:597][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2026.05.12-21.38.08:597][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2026.05.12-21.38.08:597][  0]LogPakFile: Display: ProjectDir: ../../../../../../Users/Max/OneDrive - De Montfort University/Documents/Year3/Module4/FYPMaxOxman/FYP3D/
+[2026.05.12-21.38.08:597][  0]LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2026.05.12-21.38.08:597][  0]LogPakFile: Engine only spawned 10 worker threads, bumping up to 11!
+[2026.05.12-21.38.08:600][  0]LogPakFile: Display: CompressionFormats in priority order: Oodle, Zlib
+[2026.05.12-21.38.08:600][  0]LogPakFile: Display: Oodle enabled on 'NoPluginCompression' files
+[2026.05.12-21.38.08:601][  0]LogPakFile: Display: Loading response file C:\Program Files\Epic Games\UE_5.5\Engine\Programs\AutomationTool\Saved\ResponseFiles\PakList_FYP3D-Windows.txt
+[2026.05.12-21.38.08:624][  0]LogPakFile: Display: Added 1612 entries to add to pak file.
+[2026.05.12-21.38.08:625][  0]LogPakFile: Display: Collecting files to add to pak file...
+[2026.05.12-21.38.08:634][  0]LogPakFile: Display: Collected 1612 files in 0.01s.
+[2026.05.12-21.38.08:636][  0]LogPakFile: Display: Creating pak C:\Users\Max\OneDrive - De Montfort University\Documents\Year3\Module4\FYPMaxOxman\FYP3D\Saved\StagedBuilds\Windows\FYP3D\Content\Paks\FYP3D-Windows.pak.
+[2026.05.12-21.38.08:640][  0]OodleDataCompression: Display: Oodle v2.9.12 format for pak/iostore with method=Kraken, level=4=Normal
+[2026.05.12-21.38.08:830][  0]LogPakFile: Display: Created pak file: C:\Users\Max\OneDrive - De Montfort University\Documents\Year3\Module4\FYPMaxOxman\FYP3D\Saved\StagedBuilds\Windows\FYP3D\Content\Paks\FYP3D-Windows.pak
+[2026.05.12-21.38.08:846][  0]LogPakFile: Display: CompressionFormat 0 [Oodle] : 353 files, 25475732 -> 9047883 bytes
+[2026.05.12-21.38.08:846][  0]LogPakFile: Display: CompressionFormat 2 [None] : 1259 files, 739107 -> 739107 bytes
+[2026.05.12-21.38.08:846][  0]LogPakFile: Display: Added 1612 files, 10407340 bytes total
+[2026.05.12-21.38.08:846][  0]LogPakFile: Display: PrimaryIndex size: 22346 bytes
+[2026.05.12-21.38.08:846][  0]LogPakFile: Display: PathHashIndex size: 49406 bytes
+[2026.05.12-21.38.08:846][  0]LogPakFile: Display: FullDirectoryIndex size: 52678 bytes
+[2026.05.12-21.38.08:846][  0]LogPakFile: Display: Compression summary: 35.52% of original size. Compressed Size 9047883 bytes, Original Size 25475732 bytes. 
+[2026.05.12-21.38.08:846][  0]LogPakFile: Display: Encryption - DISABLED
+[2026.05.12-21.38.08:846][  0]LogPakFile: Display: 
+[2026.05.12-21.38.08:846][  0]LogPakFile: Display: Writer and Compression Threads exited.
+[2026.05.12-21.38.08:846][  0]LogPakFile: Display: UnrealPak executed in 0.249971 seconds
+[2026.05.12-21.38.08:851][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2026.05.12-21.38.08:851][  0]LogExit: Preparing to exit.
+[2026.05.12-21.38.08:852][  0]LogExit: Object subsystem successfully closed.
+[2026.05.12-21.38.08:853][  0]LogPakFile: Destroying PakPlatformFile
+[2026.05.12-21.38.08:855][  0]LogExit: Exiting.
+[2026.05.12-21.38.08:861][  0]Log file closed, 05/12/26 22:38:08
