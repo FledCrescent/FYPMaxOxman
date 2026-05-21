@@ -357,6 +357,7 @@
 /Game/Blender/Level1/Obtacles/BrickChangingTextureYellow
 /Game/Blender/Level1/Obtacles/clay_roof_tiles_02_diff_2k
 /Game/Blender/Level1/Obtacles/ColouredBrickTexture
+/Game/Blender/Level1/Obtacles/HolderSpinningWoodenObj
 /Game/Blender/Level1/Obtacles/LRockLowPoly
 /Game/Blender/Level1/Obtacles/Material_002
 /Game/Blender/Level1/Obtacles/Material_003
@@ -368,12 +369,14 @@
 /Game/Blender/Level1/Obtacles/MRockLowPoly_FoliageType
 /Game/Blender/Level1/Obtacles/Rock_Texture
 /Game/Blender/Level1/Obtacles/RockMaterial
+/Game/Blender/Level1/Obtacles/RockMaterialTwoSided
 /Game/Blender/Level1/Obtacles/SRockLowPoly
 /Game/Blender/Level1/Obtacles/SRockLowPoly_FoliageType
 /Game/Blender/Level1/Obtacles/VinesTexture
 /Game/Blender/Level1/Obtacles/VinesTexture_Mat
 /Game/Blender/Level1/Obtacles/Windmill
 /Game/Blender/Level1/Obtacles/WindmillWheel
+/Game/Blender/Level1/Obtacles/WoodSpinningWoodenObj
 /Game/Blender/Level1/Poppy
 /Game/Blender/Level1/Poppy_FoliageType
 /Game/Blender/Level1/SimpleTreeBig
@@ -418,10 +421,14 @@
 /Game/Blender/Tree_Branch1
 /Game/Blender/Tree_Branch1_Mat
 /Game/Blender/Tree_Branch1_Mat1
+/Game/GolfMechanics/BP_SpinningWood
 /Game/GolfMechanics/BP_SpinnyWindmill
+/Game/GolfMechanics/BP_SpinnyWindmill_Child
 /Game/GolfMechanics/GolfBall
 /Game/GolfMechanics/GolfGameMode
 /Game/GolfMechanics/NextHole
+/Game/GolfMechanics/PH_GolfBall
+/Game/GolfMechanics/Sphere4Golf
 /Game/Levels/MainMenu
 /Game/Levels/NewMap1
 /Game/Levels/NewMap1/_Generated_/00N0HVNNC9IH82HHX94OHRJTY
@@ -568,6 +575,7 @@
 /Game/UI/Niagara/NS_BeaconForest
 /Game/UI/Niagara/NS_BeaconGreek
 /Game/UI/Niagara/NS_SpiralBall
+/Game/UI/Niagara/NS_TrailBall
 /Game/UI/PostProcessing/ADV_Outline
 /Game/UI/PostProcessing/ADV_Outline_Inst
 /Game/UI/PostProcessing/SampleOffset_Custom
@@ -691,6 +699,7 @@
 /MediaPlate/SM_MediaPlateScreen
 /MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor
 /Niagara/DefaultAssets/DefaultSpriteMaterial
+/Niagara/VectorFields/Assets/TilingCurl32
 /NNEDenoiser/NNE_oidn2-3-0_rt_hdr_alb_nrm__dyn__fp16_opset11_DenoiseAlpha
 /NNEDenoiser/NNE_oidn2-3-0_rt_hdr_alb_nrm__dyn__fp16_opset11_ForwardAlpha
 /NNEDenoiser/NNE_oidn2-3-0_rt_hdr_alb_nrm_small__dyn__fp16_opset11_DenoiseAlpha

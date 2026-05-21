@@ -36,6 +36,7 @@
 			"Assets": [
 				"/Game/Levels/NewMap2/_Generated_/0DVOTBZL0TOUATJFVDYZDQJ6Q",
 				"/Game/Levels/NewMap2/_Generated_/0JU5200EH4G84W5KDW4TS9UG3",
+				"/Game/Levels/NewMap2/_Generated_/0NJ3B4SFXF85FKWD6TZSY31ON",
 				"/Game/Levels/NewMap2/_Generated_/0R8T7GOGI5TIZW36XXRTXTNFN",
 				"/Game/Levels/NewMap2/_Generated_/0RFAHV758H048BH5C65PJ0U0Q",
 				"/Game/Levels/NewMap2/_Generated_/0WXXL79552VAUVKMC1IQCXYAK",
@@ -60,9 +61,11 @@
 				"/Game/Levels/NewMap2/_Generated_/5YNY1GXNJU29K7DDRHBK3JEE8",
 				"/Game/Levels/NewMap2/_Generated_/664A18YGDC63XUNWJ32QS2AGR",
 				"/Game/Levels/NewMap2/_Generated_/6O0FIW1Z3B9I92F799FWH0M4J",
+				"/Game/Levels/NewMap2/_Generated_/6TUWE6MQ90FH5CH7DZFKJVTQ8",
 				"/Game/Levels/NewMap2/_Generated_/6X6Y1F2B8Z3D8VT1WX5UWR7QB",
 				"/Game/Levels/NewMap2/_Generated_/73P853629NSFZBFWUXLSW21JY",
 				"/Game/Levels/NewMap2/_Generated_/7NI4WZYZL17NEB6QHDTPY6VH7",
+				"/Game/Levels/NewMap2/_Generated_/7UKNE5QYH4BQYV5M1MJOECYMM",
 				"/Game/Levels/NewMap2/_Generated_/7ZYOMN5SFJNK4QDWOTD37QDWO",
 				"/Game/Levels/NewMap2/_Generated_/80MYYN4SLD0T17QE5J42UH53A",
 				"/Game/Levels/NewMap2/_Generated_/87V9BCBX6LG8OYMBRLBHQ1JB5",
@@ -72,6 +75,7 @@
 				"/Game/Levels/NewMap2/_Generated_/99ERC9NFTL08Z68VXUBQD8B69",
 				"/Game/Levels/NewMap2/_Generated_/9KPNWDRABYIW8JL461HDF2AJR",
 				"/Game/Levels/NewMap2/_Generated_/AIQ9TY4QM3JJDAP9U8BJFXC7Y",
+				"/Game/Levels/NewMap2/_Generated_/B3JAPMQ81D9M295TZSZ0SGSBO",
 				"/Game/Levels/NewMap2/_Generated_/BAQOTZYOPEZW7D6O746BHHXMP",
 				"/Game/Levels/NewMap2/_Generated_/BODV92JFRCF5MF2ZZ57NQTDV4",
 				"/Game/Levels/NewMap2/_Generated_/CD5MMNL2PRS7K5G2HOQ37ZM85",
@@ -83,6 +87,7 @@
 				"/Game/Levels/NewMap2/_Generated_/CT31T3H85QM7KQ4ULIJ9SF8EB",
 				"/Game/Levels/NewMap2/_Generated_/D0WWG1GPUGOME74GMKFOMAN9A",
 				"/Game/Levels/NewMap2/_Generated_/D8RQDZJNELCS3FZ5X8SD1PRT8",
+				"/Game/Levels/NewMap2/_Generated_/DBBIL6W6VSP3CFVWNYZ39GOYZ",
 				"/Game/Levels/NewMap2/_Generated_/DCASDBXBKNEJVF630NCF81G6E",
 				"/Game/Levels/NewMap2/_Generated_/DI83ALFNRN7N7UW164LH6I4PM",
 				"/Game/Levels/NewMap2/_Generated_/E74K64VEIGTTRNJT5SWU3NE80",
@@ -117,6 +122,12 @@
 			"ShaderMapHash": "B7AA5B1BBDF568D143E429424B6D6FD74C325F29",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "AA73D01F1D14B5457708EEE8CD07821AD09A9861",
+			"Assets": [
+				"/Game/Blender/Level1/Obtacles/RockMaterialTwoSided"
 			]
 		},
 		{
@@ -369,10 +380,15 @@
 		{
 			"ShaderMapHash": "99D1C876E18E2935291F9F4AB19BDD5CA591592F",
 			"Assets": [
+				"/Game/Levels/NewMap1/_Generated_/0BLF3SR5PZ2KKKQAL3WTN895D",
+				"/Game/Levels/NewMap1/_Generated_/0GO3UJRL2WXOV2NK7548D3WHU",
 				"/Game/Levels/NewMap1/_Generated_/1T8UPHK7L9KF4O21LWS29JXUL",
 				"/Game/Levels/NewMap1/_Generated_/2HS6FZ6C0ILHZGE1P7HPTKO7W",
+				"/Game/Levels/NewMap1/_Generated_/3OIRBV6NJJMXVEJFABDF6ZMX6",
 				"/Game/Levels/NewMap1/_Generated_/617FBBU67ITIIP7CAR50IUKNT",
-				"/Game/Levels/NewMap1/_Generated_/8WFS6X2Y0EHJ0FMS6OZCHSC1S"
+				"/Game/Levels/NewMap1/_Generated_/8WFS6X2Y0EHJ0FMS6OZCHSC1S",
+				"/Game/Levels/NewMap1/_Generated_/DSME4407AAPNDQJF2XKYR5N75",
+				"/Game/Levels/NewMap1/_Generated_/EGG3VVVGFCZNMB5OUI1H78TGE"
 			]
 		},
 		{
