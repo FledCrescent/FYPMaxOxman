@@ -203,6 +203,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "45118C36256B5B99A1247E75DF518958696456EE",
+			"Assets": [
+				"/Game/Levels/NewMap2/_Generated_/B3JAPMQ81D9M295TZSZ0SGSBO"
+			]
+		},
+		{
 			"ShaderMapHash": "9F2C053A64D5395B2AD3D7CA07CC250E6C1E403F",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
@@ -275,6 +281,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "485DF45523A76308980461BD87CFAE86A6D78328",
+			"Assets": [
+				"/Game/Levels/NewMap1/_Generated_/0GO3UJRL2WXOV2NK7548D3WHU"
+			]
+		},
+		{
 			"ShaderMapHash": "2F066C567E182B147360D6C4384B0E3D31B52247",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
@@ -324,6 +336,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "456D3868D8F2DAB3C9CC62E5E96E058D9A6FBA07",
+			"Assets": [
+				"/Game/AssortedMats/GreekFloor"
+			]
+		},
+		{
 			"ShaderMapHash": "A6DA32696C6D49BB6FADC4685C95908F9D91BA8A",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigXRayMaterial"
@@ -333,6 +351,12 @@
 			"ShaderMapHash": "D926566979F8A660827B0923771A68B945B11A30",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "2783F56977C3E1BADD3DDF2DBD26F256B47CC79C",
+			"Assets": [
+				"/Game/AssortedMats/ShadowBlack"
 			]
 		},
 		{
@@ -369,6 +393,13 @@
 			"ShaderMapHash": "B13B068039EF4938F35E551E9025BCB3A1D9CE66",
 			"Assets": [
 				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "69EBA981DA0D9682CE18842B2A79B93135F67E83",
+			"Assets": [
+				"/Game/Blender/Level1/GreekWoodPillarTexture_Mat",
+				"/Game/Blender/ModularKit/CheckerboardPatternGreek_Mat"
 			]
 		},
 		{
@@ -421,6 +452,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CAC7E18F4324D5229D944E4EFD49363E17EDB3A8",
+			"Assets": [
+				"/Game/Blender/Forest_SkyboxFloor"
+			]
+		},
+		{
 			"ShaderMapHash": "D761A29650185FC3DD14DBB457C9A7DC5028C1F3",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
@@ -463,12 +500,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "27D516A70275E8BB0FAEE5BA7FEBBA3122DEA4EF",
-			"Assets": [
-				"/Game/Blender/Level1/Material_005"
-			]
-		},
-		{
 			"ShaderMapHash": "D5BA6DAA70625DE0B173C75E990551535AE8B1F5",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
@@ -490,12 +521,6 @@
 			"ShaderMapHash": "9220ADAC5EBCC7452DB04881C15F4DF58A25927D",
 			"Assets": [
 				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "8750D2ADD6F8DD82B187C8E2B08470D58B2C5610",
-			"Assets": [
-				"/Game/Blender/Tree_Branch1_Mat1"
 			]
 		},
 		{
@@ -541,15 +566,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8B4903B64F7E1FC89725162A070A810A0A81A8A5",
-			"Assets": [
-				"/Game/Blender/Tree_Branch1_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "6EFB8AB7655E4A6171E799EE30BD1CACD0F1E4D4",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "637CA3B7871D59CA3BCD0A82988555DD37856530",
+			"Assets": [
+				"/Game/Blender/Tree_Branch1_Mat"
 			]
 		},
 		{
@@ -638,6 +663,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5FD336D0E1F4C0E32D7457844FEDA295CB2AB10B",
+			"Assets": [
+				"/Game/Blender/Level1/Material_005"
+			]
+		},
+		{
 			"ShaderMapHash": "D18065D0BD2C55B054FADA5A2FFAA91F875786CF",
 			"Assets": [
 				"/Game/UI/PostProcessing/ADV_Outline"
@@ -696,6 +727,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9B4A92EBD3C3EA1E88526E1B7BF185E8CEE33008",
+			"Assets": [
+				"/Game/Blender/Tree_Branch1_Mat1"
+			]
+		},
+		{
 			"ShaderMapHash": "6B5B2DECE1E9B817E4FC67D2E1F454F0BDE88A50",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
@@ -711,20 +748,6 @@
 			"ShaderMapHash": "A44799F1257FDC62D53039D098BC3A4B3A7BEADB",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "72E8E5F221851B556C04B514D6C732FB08F48847",
-			"Assets": [
-				"/Game/Levels/NewMap1/_Generated_/0BLF3SR5PZ2KKKQAL3WTN895D",
-				"/Game/Levels/NewMap1/_Generated_/0GO3UJRL2WXOV2NK7548D3WHU",
-				"/Game/Levels/NewMap1/_Generated_/1T8UPHK7L9KF4O21LWS29JXUL",
-				"/Game/Levels/NewMap1/_Generated_/2HS6FZ6C0ILHZGE1P7HPTKO7W",
-				"/Game/Levels/NewMap1/_Generated_/3OIRBV6NJJMXVEJFABDF6ZMX6",
-				"/Game/Levels/NewMap1/_Generated_/617FBBU67ITIIP7CAR50IUKNT",
-				"/Game/Levels/NewMap1/_Generated_/8WFS6X2Y0EHJ0FMS6OZCHSC1S",
-				"/Game/Levels/NewMap1/_Generated_/DSME4407AAPNDQJF2XKYR5N75",
-				"/Game/Levels/NewMap1/_Generated_/EGG3VVVGFCZNMB5OUI1H78TGE"
 			]
 		},
 		{
@@ -749,12 +772,6 @@
 			"ShaderMapHash": "0832FFF6BCD2C53502C668EE2EA81CF786E3734E",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialToggleButton"
-			]
-		},
-		{
-			"ShaderMapHash": "316EE5F80362BB792543BECCE820F4438C059D06",
-			"Assets": [
-				"/Game/Blender/ModularKit/GrassPNG_Mat"
 			]
 		},
 		{
