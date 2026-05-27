@@ -13,3 +13,5 @@ Textures and Materials made and used for visuals in Unreal Engine and materials 
 Controls:
 Play this by holding Left Click, and fire by pressing Spacebar.
 Press ESC or TAB to go to level select
+
+.gitignore. Gitignore is used for project files too large to be uploaded to github, e.g. large skybox textures
