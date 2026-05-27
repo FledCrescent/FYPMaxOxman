@@ -1,8 +1,8 @@
 # Max Oxman. Final Year Project
 De Montfort University Final Year Project:  
-Games Production (BSc) 
-Max Oxman. 
-Supervisor: Salim Hasshu.
+Games Production (BSc)  
+Max Oxman.  
+Supervisor: Salim Hasshu.  
 User Experience in the 3D Pipeline.
 
 # Mini Golf Adventure: 
@@ -19,4 +19,5 @@ Press ESC or TAB to go to level select
 Gitignore is used for project files too large to be uploaded to github, e.g. large skybox textures.
 
 # Secondary Assets 
-Textures and Sounds. Many of the textures used and altered for the product have been gained from royalty free files from the websites, Pixabay and Freepik.
+Textures and Sounds.  
+Many of the textures used and altered for the product have been gained from royalty free files from the websites, Pixabay and Freepik.
