@@ -235,6 +235,7 @@ ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.CustomDepth:0=3
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0=True
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.HighlightContrastScale:0=0.8
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.ShadowContrastScale:0=0.8
+ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.MotionBlur:0=False
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.DistanceFields:0=1
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=1
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.GenerateMeshDistanceFields:0=True
@@ -650,6 +651,7 @@ ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.CustomDepth:0=3
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0=True
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.HighlightContrastScale:0=0.8
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.ShadowContrastScale:0=0.8
+ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.MotionBlur:0=False
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.DistanceFields:0=0
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=1
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.GenerateMeshDistanceFields:0=True
@@ -1398,6 +1400,7 @@ ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.CustomDepth:0=3
 ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0=True
 ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.HighlightContrastScale:0=0.8
 ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.ShadowContrastScale:0=0.8
+ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.MotionBlur:0=False
 ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=1
 ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.GenerateMeshDistanceFields:0=True
 ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.GPUCrashDebugging:0=false
@@ -3099,6 +3102,7 @@ ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.CustomDepth:0=3
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0=True
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.HighlightContrastScale:0=0.8
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.ShadowContrastScale:0=0.8
+ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.MotionBlur:0=False
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=1
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.GenerateMeshDistanceFields:0=True
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.GPUCrashDebugging:0=false
@@ -3666,7 +3670,7 @@ ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:L
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=(("Windows", PPBC_Shipping))
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildTarget:0=()
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))
-ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="C/Users/Max/OneDrive - De Montfort University/Documents/Year3/Module4/MiniGolf")
+ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="C/Users/Max/OneDrive - De Montfort University/Documents/Year3/Module4")
 ConfigSystem.<Editor>.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:0=(PrimaryAssetType="Map",AssetBaseClass=/Script/Engine.World,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game/Maps")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 ConfigSystem.<Editor>.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:1=(PrimaryAssetType="PrimaryAssetLabel",AssetBaseClass=/Script/Engine.PrimaryAssetLabel,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 ConfigSystem.<Editor>.Game:/Script/Engine.DebugCameraController:bShowSelectedInfo:0=true
@@ -4436,6 +4440,7 @@ ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.CustomDepth:0=3
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0=True
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.HighlightContrastScale:0=0.8
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.ShadowContrastScale:0=0.8
+ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.MotionBlur:0=False
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.DistanceFields:0=0
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=1
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.GenerateMeshDistanceFields:0=True
@@ -4829,6 +4834,7 @@ ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.CustomDepth:0=3
 ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0=True
 ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.HighlightContrastScale:0=0.8
 ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.ShadowContrastScale:0=0.8
+ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.MotionBlur:0=False
 ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=1
 ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.GenerateMeshDistanceFields:0=True
 ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.GPUCrashDebugging:0=false

@@ -8,6 +8,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A5B344030CACDAE32FBC856DC4D317A92C73CD80",
+			"Assets": [
+				"/Game/AssortedMats/ShadowEndHole"
+			]
+		},
+		{
 			"ShaderMapHash": "38FA2904342B28DCC541AF5DAAB7DADFDD0E66AE",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
@@ -34,70 +40,70 @@
 		{
 			"ShaderMapHash": "1A2F8D0B22D62BE3A9FD5050075BCFE862DB4AC7",
 			"Assets": [
-				"/Game/Levels/NewMap2/_Generated_/0DVOTBZL0TOUATJFVDYZDQJ6Q",
-				"/Game/Levels/NewMap2/_Generated_/0JU5200EH4G84W5KDW4TS9UG3",
-				"/Game/Levels/NewMap2/_Generated_/0NJ3B4SFXF85FKWD6TZSY31ON",
-				"/Game/Levels/NewMap2/_Generated_/0R8T7GOGI5TIZW36XXRTXTNFN",
-				"/Game/Levels/NewMap2/_Generated_/0RFAHV758H048BH5C65PJ0U0Q",
-				"/Game/Levels/NewMap2/_Generated_/0WXXL79552VAUVKMC1IQCXYAK",
-				"/Game/Levels/NewMap2/_Generated_/1A2OR70KYLY64P85XA0ZOPC8O",
-				"/Game/Levels/NewMap2/_Generated_/1AG01CM8PTKBLZ8OONA920PDT",
-				"/Game/Levels/NewMap2/_Generated_/1BUTALMK2WNDA6WOO3NQR3YY8",
-				"/Game/Levels/NewMap2/_Generated_/1OLYBJTTQ899AGNHRYE31GC32",
-				"/Game/Levels/NewMap2/_Generated_/1TSBK5GLJ1EVMXJ2HMMVI64J8",
-				"/Game/Levels/NewMap2/_Generated_/26J6A9AL2OOPNGAUUI2SMU399",
-				"/Game/Levels/NewMap2/_Generated_/2GGA7A9XCSOOB52XCQPKT7SUW",
-				"/Game/Levels/NewMap2/_Generated_/2ZXZJ3AMXSZP7MK1AM4HC5NAG",
-				"/Game/Levels/NewMap2/_Generated_/3Y5JLJEJZ42NYD8F66ED04X12",
-				"/Game/Levels/NewMap2/_Generated_/3YOLC0KBZRBSRO43A37YQLCWG",
-				"/Game/Levels/NewMap2/_Generated_/46LHGA4VI181WWGFV24W7GT4S",
-				"/Game/Levels/NewMap2/_Generated_/49BESOJBYTW0GCPX8JQZ0X3TI",
-				"/Game/Levels/NewMap2/_Generated_/49PXLXSHMW0X9NOY1C95WQJT0",
-				"/Game/Levels/NewMap2/_Generated_/4GP547SAHXXVYMRHOTGAXX5N4",
-				"/Game/Levels/NewMap2/_Generated_/4OTQ5H7YRNDBFIV2N8NFF5R20",
-				"/Game/Levels/NewMap2/_Generated_/5AC2L6VFONTDV8D4L0O7KU9LO",
-				"/Game/Levels/NewMap2/_Generated_/5AUA5N91UGUOZHN1RL52HRBPZ",
-				"/Game/Levels/NewMap2/_Generated_/5R6HHFAS9EU4D2QNZ9G4XCIDN",
-				"/Game/Levels/NewMap2/_Generated_/5YNY1GXNJU29K7DDRHBK3JEE8",
-				"/Game/Levels/NewMap2/_Generated_/664A18YGDC63XUNWJ32QS2AGR",
-				"/Game/Levels/NewMap2/_Generated_/6O0FIW1Z3B9I92F799FWH0M4J",
-				"/Game/Levels/NewMap2/_Generated_/6TUWE6MQ90FH5CH7DZFKJVTQ8",
-				"/Game/Levels/NewMap2/_Generated_/6X6Y1F2B8Z3D8VT1WX5UWR7QB",
-				"/Game/Levels/NewMap2/_Generated_/73P853629NSFZBFWUXLSW21JY",
-				"/Game/Levels/NewMap2/_Generated_/7NI4WZYZL17NEB6QHDTPY6VH7",
-				"/Game/Levels/NewMap2/_Generated_/7UKNE5QYH4BQYV5M1MJOECYMM",
-				"/Game/Levels/NewMap2/_Generated_/7ZYOMN5SFJNK4QDWOTD37QDWO",
-				"/Game/Levels/NewMap2/_Generated_/80MYYN4SLD0T17QE5J42UH53A",
-				"/Game/Levels/NewMap2/_Generated_/87V9BCBX6LG8OYMBRLBHQ1JB5",
-				"/Game/Levels/NewMap2/_Generated_/8C1X5ZA878W71K1G5EPNJD5O2",
-				"/Game/Levels/NewMap2/_Generated_/8E3NVDOYXPM748O85XXBCVPNG",
-				"/Game/Levels/NewMap2/_Generated_/904J756CNFRWCCTINY7I051OZ",
-				"/Game/Levels/NewMap2/_Generated_/99ERC9NFTL08Z68VXUBQD8B69",
-				"/Game/Levels/NewMap2/_Generated_/9KPNWDRABYIW8JL461HDF2AJR",
-				"/Game/Levels/NewMap2/_Generated_/AIQ9TY4QM3JJDAP9U8BJFXC7Y",
-				"/Game/Levels/NewMap2/_Generated_/B3JAPMQ81D9M295TZSZ0SGSBO",
-				"/Game/Levels/NewMap2/_Generated_/BAQOTZYOPEZW7D6O746BHHXMP",
-				"/Game/Levels/NewMap2/_Generated_/BODV92JFRCF5MF2ZZ57NQTDV4",
-				"/Game/Levels/NewMap2/_Generated_/CD5MMNL2PRS7K5G2HOQ37ZM85",
-				"/Game/Levels/NewMap2/_Generated_/CFWRTRLQ4UFY9DKZXP3HP493M",
-				"/Game/Levels/NewMap2/_Generated_/CH5X8NI5188WIOTQ463775K3G",
-				"/Game/Levels/NewMap2/_Generated_/CJ76YCUHTSFVOF212Z90KEHTR",
-				"/Game/Levels/NewMap2/_Generated_/CKK9Q27AWSSC7LSAEVUV3ZVH7",
-				"/Game/Levels/NewMap2/_Generated_/CQ0P4VF5WA8DCOFTVI0IDDJBK",
-				"/Game/Levels/NewMap2/_Generated_/CT31T3H85QM7KQ4ULIJ9SF8EB",
-				"/Game/Levels/NewMap2/_Generated_/D0WWG1GPUGOME74GMKFOMAN9A",
-				"/Game/Levels/NewMap2/_Generated_/D8RQDZJNELCS3FZ5X8SD1PRT8",
-				"/Game/Levels/NewMap2/_Generated_/DBBIL6W6VSP3CFVWNYZ39GOYZ",
-				"/Game/Levels/NewMap2/_Generated_/DCASDBXBKNEJVF630NCF81G6E",
-				"/Game/Levels/NewMap2/_Generated_/DI83ALFNRN7N7UW164LH6I4PM",
-				"/Game/Levels/NewMap2/_Generated_/E74K64VEIGTTRNJT5SWU3NE80",
-				"/Game/Levels/NewMap2/_Generated_/EF8PQJNAORIZAKOXTEIT6NMZV",
-				"/Game/Levels/NewMap2/_Generated_/EGN4VLBJEX9ZRAUQQ0SRYDIP5",
-				"/Game/Levels/NewMap2/_Generated_/EJ2VINUVCQPRANA1DTAUII0MA",
-				"/Game/Levels/NewMap2/_Generated_/EL97L0RZ30CJ37U7CO1ATEUHV",
-				"/Game/Levels/NewMap2/_Generated_/EUT8P48O2OE650TCVLPBNPB36",
-				"/Game/Levels/NewMap2/_Generated_/EWX7OZIK7Y5JETTT3WG58TXQN",
-				"/Game/Levels/NewMap2/_Generated_/EZWGG58EQJTCVQOONV4S5AP2E"
+				"/Game/Levels/GreekMyths/_Generated_/0AT25NS8EBVLZMY19TIB020WT",
+				"/Game/Levels/GreekMyths/_Generated_/13BV32YD9KPOJZQA736HCQQFO",
+				"/Game/Levels/GreekMyths/_Generated_/13IBOEVNI1NODE49UPMK4ZC36",
+				"/Game/Levels/GreekMyths/_Generated_/1861RWMP23TI4MKXYPY0WRJ3B",
+				"/Game/Levels/GreekMyths/_Generated_/19YQ2D7LZ83P4QAXQCZXYGA6C",
+				"/Game/Levels/GreekMyths/_Generated_/1KQ7X8KY29UYDQTZ0WB7CQ5QW",
+				"/Game/Levels/GreekMyths/_Generated_/2EE03MK6VHZLI5ALS1V0Q5KFB",
+				"/Game/Levels/GreekMyths/_Generated_/2KWAFAZSWKJCEGHDYRXDAOWU6",
+				"/Game/Levels/GreekMyths/_Generated_/2OTBO9CL58XQXTUC8UDUFS36F",
+				"/Game/Levels/GreekMyths/_Generated_/36K8LFH9443TROC5KI3AS0FDT",
+				"/Game/Levels/GreekMyths/_Generated_/3GI1RXNZ5IODO1V7RPS01XDCY",
+				"/Game/Levels/GreekMyths/_Generated_/3H4S33T70PDKNZ0IOXYF5D33U",
+				"/Game/Levels/GreekMyths/_Generated_/3UJA5TP4LUX8UWDBA5EC3AFUJ",
+				"/Game/Levels/GreekMyths/_Generated_/3WBJF4QE249QHLBFMNXI7LGGH",
+				"/Game/Levels/GreekMyths/_Generated_/416PFI2ELRGA7F5JGR0M60NQH",
+				"/Game/Levels/GreekMyths/_Generated_/49A0C0AFIK08KYKWRT4E09QTJ",
+				"/Game/Levels/GreekMyths/_Generated_/4QO5010YMJKNPLIOM4GX4Z3QA",
+				"/Game/Levels/GreekMyths/_Generated_/4V19FSRRQKABPWLRQSRGO3J6G",
+				"/Game/Levels/GreekMyths/_Generated_/4WV4GZT66B5NMALV8MFGTKG6D",
+				"/Game/Levels/GreekMyths/_Generated_/55OBXDEXW17JSSTI7CKB3L1WL",
+				"/Game/Levels/GreekMyths/_Generated_/5E2GYNNGKFIN9E12TB2YUUMRO",
+				"/Game/Levels/GreekMyths/_Generated_/6TSE9B89WR3UEMCQYRASGWQ8G",
+				"/Game/Levels/GreekMyths/_Generated_/74ANYG5IF5S3MIFMDMB1MMOVM",
+				"/Game/Levels/GreekMyths/_Generated_/74TFYXXXL5BGU7TILSAYWJKRZ",
+				"/Game/Levels/GreekMyths/_Generated_/79FH3S80A8Q39XBQXKZ8K47OU",
+				"/Game/Levels/GreekMyths/_Generated_/7JOJX3Y8F346Q29ZJ3RV48QEQ",
+				"/Game/Levels/GreekMyths/_Generated_/7KTQE82Q6I0APMGZMEW5HLLOH",
+				"/Game/Levels/GreekMyths/_Generated_/7MBAUQXL2V37Y9UU85EX69MDT",
+				"/Game/Levels/GreekMyths/_Generated_/7RQS6K36VI84F7SJBB91X192Y",
+				"/Game/Levels/GreekMyths/_Generated_/7XGZ2NDMFYSXW65SYYK150F4J",
+				"/Game/Levels/GreekMyths/_Generated_/85HOR5N4O7QCB7HBILU97V3UD",
+				"/Game/Levels/GreekMyths/_Generated_/895WRZIZO80A580P0182YY9CO",
+				"/Game/Levels/GreekMyths/_Generated_/89EWTFV25L81SK4I6Y6V88NF1",
+				"/Game/Levels/GreekMyths/_Generated_/89U2S0MPCPHNU04J3YCTPGVEB",
+				"/Game/Levels/GreekMyths/_Generated_/8KPLOZQTFPEPTIK6IV52DUVH5",
+				"/Game/Levels/GreekMyths/_Generated_/8OX2MQZ9U3CGI8SQYV8VGIYZJ",
+				"/Game/Levels/GreekMyths/_Generated_/8P6BAA0BPP5HODD9N8FW9R6L6",
+				"/Game/Levels/GreekMyths/_Generated_/8UM8L55DSSFW47U2A7B0Y2Y08",
+				"/Game/Levels/GreekMyths/_Generated_/8VWKPDVMW337LBVOG9XG1TVLR",
+				"/Game/Levels/GreekMyths/_Generated_/98T0R2GAVMVNKEEDGKFUU0PSR",
+				"/Game/Levels/GreekMyths/_Generated_/9HHBYSPTEIMS4JQ0L3CJGD5XD",
+				"/Game/Levels/GreekMyths/_Generated_/9P5C0SDAEVO5U6YQLX6NFVHFV",
+				"/Game/Levels/GreekMyths/_Generated_/9SGPWBHMN2LFZZK0QSX8V1A3X",
+				"/Game/Levels/GreekMyths/_Generated_/9UBHE8U18ZJHVA407VRMC49TS",
+				"/Game/Levels/GreekMyths/_Generated_/A4M2F016AC438O6F6967WJSEO",
+				"/Game/Levels/GreekMyths/_Generated_/A9BYTN3GG4RKUWQF1YBKKCEEH",
+				"/Game/Levels/GreekMyths/_Generated_/ABAQ30KBHVHUWCSUZTPWZR173",
+				"/Game/Levels/GreekMyths/_Generated_/ALWQB1L0KIOWHROKT00U85YYP",
+				"/Game/Levels/GreekMyths/_Generated_/AXLHN6FXPTIALV8I2WI7R78KL",
+				"/Game/Levels/GreekMyths/_Generated_/B22H1KMQD6VW79IIZRN0WNC5V",
+				"/Game/Levels/GreekMyths/_Generated_/B3DS53P3XVGWN7XVLTGTFEBOJ",
+				"/Game/Levels/GreekMyths/_Generated_/BC5MDG29I770HOOXWCAW7W551",
+				"/Game/Levels/GreekMyths/_Generated_/BDSRGR87ZY65LWFHI4S8JKKLU",
+				"/Game/Levels/GreekMyths/_Generated_/BGMV2BUXOGTIVB3KMNVS0ZOLC",
+				"/Game/Levels/GreekMyths/_Generated_/CFPY38SYIQARDYRK5FPRXVRPT",
+				"/Game/Levels/GreekMyths/_Generated_/D38L4YJFH0RVFMR161LM8KOG9",
+				"/Game/Levels/GreekMyths/_Generated_/D49AX9YG0SXQEOWQEQKMMEA9U",
+				"/Game/Levels/GreekMyths/_Generated_/D4WZ4I68T3JH5ARTS5TDFUQ4A",
+				"/Game/Levels/GreekMyths/_Generated_/D6OVTAOR90WB8NMUHF88ZBMY2",
+				"/Game/Levels/GreekMyths/_Generated_/DK160A976Y0QXI34P72UMAS2F",
+				"/Game/Levels/GreekMyths/_Generated_/DKV8PP2S8MCVIHCIWWSXSA9X4",
+				"/Game/Levels/GreekMyths/_Generated_/DVY1FOEVILF9ISG1V623SQT0S",
+				"/Game/Levels/GreekMyths/_Generated_/DYO0BGJMYJV9CL6JQ5A63EIAE",
+				"/Game/Levels/GreekMyths/_Generated_/E85TZFCZUFNGXVFYY2RO1ICI8"
 			]
 		},
 		{
@@ -137,6 +143,10 @@
 				"/Game/Blender/Level1/Obtacles/Material_003",
 				"/Game/Blender/Level1/Obtacles/Material_006",
 				"/Game/Blender/Level1/Obtacles/Material_007",
+				"/Game/Blender/Level2Greek/Drum",
+				"/Game/Blender/Level2Greek/MarbAltTex",
+				"/Game/Blender/Level2Greek/Material",
+				"/Game/Blender/Level2Greek/Material_002",
 				"/Game/Blender/ModularKit/Material_001"
 			]
 		},
@@ -378,26 +388,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "99D1C876E18E2935291F9F4AB19BDD5CA591592F",
-			"Assets": [
-				"/Game/Levels/NewMap1/_Generated_/0BLF3SR5PZ2KKKQAL3WTN895D",
-				"/Game/Levels/NewMap1/_Generated_/0GO3UJRL2WXOV2NK7548D3WHU",
-				"/Game/Levels/NewMap1/_Generated_/1T8UPHK7L9KF4O21LWS29JXUL",
-				"/Game/Levels/NewMap1/_Generated_/2HS6FZ6C0ILHZGE1P7HPTKO7W",
-				"/Game/Levels/NewMap1/_Generated_/3OIRBV6NJJMXVEJFABDF6ZMX6",
-				"/Game/Levels/NewMap1/_Generated_/617FBBU67ITIIP7CAR50IUKNT",
-				"/Game/Levels/NewMap1/_Generated_/8WFS6X2Y0EHJ0FMS6OZCHSC1S",
-				"/Game/Levels/NewMap1/_Generated_/DSME4407AAPNDQJF2XKYR5N75",
-				"/Game/Levels/NewMap1/_Generated_/EGG3VVVGFCZNMB5OUI1H78TGE"
-			]
-		},
-		{
-			"ShaderMapHash": "E1071080416084B4EE8AC8C176A51EF91854A06D",
-			"Assets": [
-				"/Game/Blender/ModularKit/Material"
-			]
-		},
-		{
 			"ShaderMapHash": "B5A0DA8173B641640E4A250C54F3D0830D319DBA",
 			"Assets": [
 				"/Engine/BasicShapes/BasicShapeMaterial"
@@ -434,21 +424,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "373F998D6B0C77E989A343DA4AC082F8DA07BD60",
-			"Assets": [
-				"/Game/Blender/ModularKit/Material_002"
-			]
-		},
-		{
 			"ShaderMapHash": "C2F3A18D28A01B98EEF4A2BC130755220947E13F",
 			"Assets": [
 				"/Game/Blender/Level1/Material"
-			]
-		},
-		{
-			"ShaderMapHash": "47C2A291A08BB7B89CCA9A13E5F6040B2C2B4FC1",
-			"Assets": [
-				"/Game/Blender/Forest_SkyboxFloor"
 			]
 		},
 		{
@@ -494,6 +472,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "89F70598F1D9A9C6DD77237D0BDC31DC6081A677",
+			"Assets": [
+				"/Game/UI/Images/LandscapeLevel1"
+			]
+		},
+		{
 			"ShaderMapHash": "149BEE9A0F16AC3CE7CE830DBB6CE47C3A498919",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Sheen"
@@ -518,9 +502,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D88D6FA217E20A5D0A35C5F61FB94954E5E01473",
+			"Assets": [
+				"/Game/Levels/TheForest/_Generated_/3KMANF2DADXL1TBEAVPVOTVHU"
+			]
+		},
+		{
 			"ShaderMapHash": "E725E1A3BDA1B6A027E665CE24C253D76BC60446",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "E672CCA440C72037DAFC77DDBE510C102D945520",
+			"Assets": [
+				"/Game/Levels/TheForest/_Generated_/655RLIGE06SBPCQ57YMNEM8RM"
 			]
 		},
 		{
@@ -563,7 +559,8 @@
 			"ShaderMapHash": "B2E892A8C006BE7AA5C13FCA2A59D2D7C7F3FF7C",
 			"Assets": [
 				"/Game/Blender/Level1/GreekWoodPillarTexture_Mat",
-				"/Game/Blender/ModularKit/CheckerboardPatternGreek_Mat"
+				"/Game/Blender/Level2Greek/MetalWork_Mat",
+				"/Game/Blender/ModularKit/CheckerboardPatternV2_Mat"
 			]
 		},
 		{
@@ -609,78 +606,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "19AF08BB735D63C12774701BC0C2C447B5DA4F7B",
+			"ShaderMapHash": "9E518CB8D91C8CF7DC4E74655904BD2BDCD603A6",
 			"Assets": [
-				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+				"/Game/Blender/Level2Greek/Clay_001"
 			]
 		},
 		{
-			"ShaderMapHash": "81509DBB5C52A3268826EE1F2AB31D0A464C0E49",
+			"ShaderMapHash": "19AF08BB735D63C12774701BC0C2C447B5DA4F7B",
 			"Assets": [
-				"/Game/Levels/NewMap1/_Generated_/00N0HVNNC9IH82HHX94OHRJTY",
-				"/Game/Levels/NewMap1/_Generated_/0BLF3SR5PZ2KKKQAL3WTN895D",
-				"/Game/Levels/NewMap1/_Generated_/0GO3UJRL2WXOV2NK7548D3WHU",
-				"/Game/Levels/NewMap1/_Generated_/11CM75IKE1N7JHIPSVP7R8HPF",
-				"/Game/Levels/NewMap1/_Generated_/14S5WUMH09GJE0139U9MGCK8H",
-				"/Game/Levels/NewMap1/_Generated_/16G7SKXG64XJRHW8JD89L2O10",
-				"/Game/Levels/NewMap1/_Generated_/18IX0XU62XEGYWZUDTN5B4165",
-				"/Game/Levels/NewMap1/_Generated_/1Q021NAENFTAIANBACBGYYISO",
-				"/Game/Levels/NewMap1/_Generated_/1T8UPHK7L9KF4O21LWS29JXUL",
-				"/Game/Levels/NewMap1/_Generated_/1YZ1S5MILC747VY3KXOQL2H4U",
-				"/Game/Levels/NewMap1/_Generated_/2AQEMLJZMEZL28ZRF327IQSBL",
-				"/Game/Levels/NewMap1/_Generated_/2FJ0U3YZCSCKZD5WC22MYSRDQ",
-				"/Game/Levels/NewMap1/_Generated_/2HS6FZ6C0ILHZGE1P7HPTKO7W",
-				"/Game/Levels/NewMap1/_Generated_/2OUSF31ZMBDX9IX8GLDKIPAN8",
-				"/Game/Levels/NewMap1/_Generated_/30C4T0T6U8GWW7DUFO7KR9W4D",
-				"/Game/Levels/NewMap1/_Generated_/3BZQ17ZD034NTIJCBCN8PDR3G",
-				"/Game/Levels/NewMap1/_Generated_/3FFZNDTMYUGTGOJJ8775XGH61",
-				"/Game/Levels/NewMap1/_Generated_/3OIRBV6NJJMXVEJFABDF6ZMX6",
-				"/Game/Levels/NewMap1/_Generated_/43KNXGMMCJV5GIG6C0P93QCAI",
-				"/Game/Levels/NewMap1/_Generated_/494CQ6ZYXYHJLFB0DKXGYG2U1",
-				"/Game/Levels/NewMap1/_Generated_/4HQT3SJH7OBQYSEO2TGEGBIGL",
-				"/Game/Levels/NewMap1/_Generated_/52NCHFK8SDDO0YRVXZC0WZZKH",
-				"/Game/Levels/NewMap1/_Generated_/59Z5CMSNQQXL303L6N0A7A5SZ",
-				"/Game/Levels/NewMap1/_Generated_/5EX918UCFUYQZDAM1JGECNJ9W",
-				"/Game/Levels/NewMap1/_Generated_/5FLP2R2K1KU93L8IYU2FAW9A1",
-				"/Game/Levels/NewMap1/_Generated_/617FBBU67ITIIP7CAR50IUKNT",
-				"/Game/Levels/NewMap1/_Generated_/63EPPARVM7EGM4CGY580IBZQ5",
-				"/Game/Levels/NewMap1/_Generated_/67EF4UN3UNHMZ4490MYW3VFRR",
-				"/Game/Levels/NewMap1/_Generated_/6HWO99SDR0U7ZNHH2DIUHXMGZ",
-				"/Game/Levels/NewMap1/_Generated_/6KG98ZDQADI41YVVV1MPMC8II",
-				"/Game/Levels/NewMap1/_Generated_/6R8KRX0LPORJ0CTGFSKCMXNAL",
-				"/Game/Levels/NewMap1/_Generated_/7ZLFUFLGX95MMQPC3IUT1F6VP",
-				"/Game/Levels/NewMap1/_Generated_/8MC0FPKWWSQRI192J2VYALYDL",
-				"/Game/Levels/NewMap1/_Generated_/8PEX6WKR33Y5FHDFWSLYXQQKK",
-				"/Game/Levels/NewMap1/_Generated_/8TBTVAYFNY96SDACN1CGE7TSA",
-				"/Game/Levels/NewMap1/_Generated_/8WFS6X2Y0EHJ0FMS6OZCHSC1S",
-				"/Game/Levels/NewMap1/_Generated_/8Z8W4O7REMR94ZR108XCOUK8C",
-				"/Game/Levels/NewMap1/_Generated_/98C8W6CNNJ0KK9MF19HCXTRSV",
-				"/Game/Levels/NewMap1/_Generated_/9B859EO2PF618X22DLSX1K899",
-				"/Game/Levels/NewMap1/_Generated_/9QEFCQPN1HADI3UOFOMOCFLBT",
-				"/Game/Levels/NewMap1/_Generated_/9QS5F4YVK5FJOHZM1ZU7FQOHX",
-				"/Game/Levels/NewMap1/_Generated_/9ZBOBEENQOZOU69KYJ7Q4WPJ0",
-				"/Game/Levels/NewMap1/_Generated_/A156CYKZV80K4B7BTVRTDG99Z",
-				"/Game/Levels/NewMap1/_Generated_/A599UTULSV1MLLIPF1K4D9946",
-				"/Game/Levels/NewMap1/_Generated_/AGE6IX00ICBTCYQJH35X9WMVI",
-				"/Game/Levels/NewMap1/_Generated_/AI95UBNG6WJFVZ5FA9UJUKD2G",
-				"/Game/Levels/NewMap1/_Generated_/ANM3XL6BBKHTFPYB4FPWQ64I8",
-				"/Game/Levels/NewMap1/_Generated_/BONF6M2H96XMZTFS1JGBJ3RR6",
-				"/Game/Levels/NewMap1/_Generated_/BYVDT5PEBJGO284LC9UBQ6OYF",
-				"/Game/Levels/NewMap1/_Generated_/BZYK9UXJHUB1SKK2VSUX2MCUJ",
-				"/Game/Levels/NewMap1/_Generated_/CFMXTP072C1IMPR5V0L8LBI0N",
-				"/Game/Levels/NewMap1/_Generated_/CGQ5V7G2ONLU89QPTV8ULLHBP",
-				"/Game/Levels/NewMap1/_Generated_/CIK9JV8DY76SFCLB12FGGACSO",
-				"/Game/Levels/NewMap1/_Generated_/CTGQN2JIVCNOTY96JE09HFTU7",
-				"/Game/Levels/NewMap1/_Generated_/DA4HFMV3A4GOK8HRSUKOWAPVK",
-				"/Game/Levels/NewMap1/_Generated_/DFHK6M1BHECOC87P81DT7GHGV",
-				"/Game/Levels/NewMap1/_Generated_/DJJ77GWCUD1R880ER5T1IZY4Q",
-				"/Game/Levels/NewMap1/_Generated_/DRXF5BOBNAZEAFAK7T4DWM4LL",
-				"/Game/Levels/NewMap1/_Generated_/DSME4407AAPNDQJF2XKYR5N75",
-				"/Game/Levels/NewMap1/_Generated_/DWO9SAG44MWEVTXDDCBZA2C3F",
-				"/Game/Levels/NewMap1/_Generated_/EGG3VVVGFCZNMB5OUI1H78TGE",
-				"/Game/Levels/NewMap1/_Generated_/EL0QJBGPV7XO29Y05PYJK59FB",
-				"/Game/Levels/NewMap1/_Generated_/EP9AU77WH4AU9X48E8GUHXXVN",
-				"/Game/Levels/NewMap1/_Generated_/EWPUWH4RZ8ZQXA6HX0C8NDOU8"
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
 			]
 		},
 		{
@@ -729,6 +663,13 @@
 			"ShaderMapHash": "12758BCCBD1BB1859446D8D408A8B6494BDA3676",
 			"Assets": [
 				"/Game/Blender/Forest_Skybox"
+			]
+		},
+		{
+			"ShaderMapHash": "6275E7CE898F907E08A1DF980AAD93D8CED7CEA0",
+			"Assets": [
+				"/Game/Blender/Level2Greek/Marble_Texture_Mat",
+				"/Game/Blender/ModularKit/CheckerboardPatternGreek_Mat"
 			]
 		},
 		{
@@ -816,6 +757,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5A85CEE5BCE0F8DB990A10219C9EA2A61BE29C85",
+			"Assets": [
+				"/Game/Blender/Level2Greek/GoldenTex_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "A7CDEFE64E9F9FCE768B8A23451AE5E9D897AD06",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
@@ -864,9 +811,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "56436AF9C708B2384DBEF1B010ECCDCE92291A16",
+			"Assets": [
+				"/Game/Animated_Nebulas_Starter_Pack/Star_Dome/M_Star_Nebula"
+			]
+		},
+		{
 			"ShaderMapHash": "2EDD26FBF47B3D2A840F3F774EBB87A78953A160",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialRoundedSlider"
+			]
+		},
+		{
+			"ShaderMapHash": "18073BFB785EA106BAAA08AA7003ED7644CF775B",
+			"Assets": [
+				"/Game/Blender/Level2Greek/HarpString"
 			]
 		},
 		{
