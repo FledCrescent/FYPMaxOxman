@@ -18,6 +18,7 @@ Audio used within the game.
 # Controls:
 Play this by holding Left Click, and fire by pressing Spacebar.
 Press ESC or TAB to go to level select.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cd356441-9741-43d2-ba3f-5987e3036218" />
 
 # Pitch Deck 
 https://www.notion.so/Notion-Pitch-Deck-Template-204f9e264e5e82849c6a8184ee3a0e1b?source=copy_link
