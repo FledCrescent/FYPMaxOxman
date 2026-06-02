@@ -13,7 +13,7 @@ Unreal Engine playable experience.
 Blender Files & FBX Files.  
 Concept Art made for the game concepting levels and designs.  
 Textures and Materials made and used for visuals in Unreal Engine and materials for 3D objects made in Blender.  
-Audio used within the game.
+Audio used within the game are secondary assets, but has been altered by myself to fit the projects needs.
 
 # Controls:
 Play this by holding Left Click, and fire by pressing Spacebar.
