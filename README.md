@@ -25,6 +25,12 @@ https://www.notion.so/Notion-Pitch-Deck-Template-204f9e264e5e82849c6a8184ee3a0e1
 # .gitignore. 
 Gitignore is used for project files too large to be uploaded to github, e.g. large skybox textures.
 
+# Supporting Documents
+Decode Assignment: https://docs.google.com/presentation/d/1OV5IDg6eCRx8ENbaOg_hS5yf805JAMDbh5zBHiA3ejI/edit?usp=sharing
+Whiteboard: https://demontfortuniversity-my.sharepoint.com/:wb:/g/personal/p2792607_my365_dmu_ac_uk/IQCN-dwdI74oRohu6e8AmXqrAWuMO7w0C_TSUGDwMkaCNHE?e=460gDd
+Google Feedback Form: https://docs.google.com/forms/d/e/1FAIpQLSdDUmVMotk2WzYgMQJTTbpALPOlw0hyZ_RIWGRJm2djXdVfhQ/viewform?usp=publish-editor
+Jira: https://dmufinalyearprojectgp.atlassian.net/jira/software/projects/GAM/boards/1/timeline?atlOrigin=eyJpIjoiZjYyMTZkNGEwOGMwNGUzM2IxZWNjZmJkMWU5OGMwNWYiLCJwIjoiaiJ9
+
 # Secondary Assets 
 Textures and Sounds.  
 Many of the textures used and altered for this free product have been gained from royalty free files from websites, Pixabay and Freepik.
