@@ -133,7 +133,8 @@
 		{
 			"ShaderMapHash": "AA73D01F1D14B5457708EEE8CD07821AD09A9861",
 			"Assets": [
-				"/Game/Blender/Level1/Obtacles/RockMaterialTwoSided"
+				"/Game/Blender/Level1/Obtacles/RockMaterialTwoSided",
+				"/Game/Blender/Level2Greek/Clay_001"
 			]
 		},
 		{
@@ -232,6 +233,12 @@
 			"ShaderMapHash": "66A2F13A8C1D09D13CB08930294D3227FC846F58",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "773B1E3B2100E45E5B8256BA78E9FFD333250415",
+			"Assets": [
+				"/Game/Blender/Level3Candy/DarkChoc"
 			]
 		},
 		{
@@ -361,6 +368,75 @@
 			]
 		},
 		{
+			"ShaderMapHash": "226954676311753C556C82349DB55EB9ED69CF73",
+			"Assets": [
+				"/Game/Levels/Candyland/_Generated_/05D4ELEPXG8R1ZXVLMKA2PPA6",
+				"/Game/Levels/Candyland/_Generated_/0H0I0WSI9EINOVFUSX0UG4JSZ",
+				"/Game/Levels/Candyland/_Generated_/0NFXZV7J1UG05T6CLQ2QVGD5Q",
+				"/Game/Levels/Candyland/_Generated_/11KUB9MLLN728ZJ7UFGI63WBI",
+				"/Game/Levels/Candyland/_Generated_/1I0R7LKK06HFXIQ3LG2X78F6X",
+				"/Game/Levels/Candyland/_Generated_/1I832J6FROT1G92MIE80QCVD9",
+				"/Game/Levels/Candyland/_Generated_/1ITIQN7FZ0C759SW3XW8F0E7A",
+				"/Game/Levels/Candyland/_Generated_/1Z2RYBDYFWXZR25BC1E19YV7F",
+				"/Game/Levels/Candyland/_Generated_/22LLXG1WPPQUPVHXSE9HSKBMU",
+				"/Game/Levels/Candyland/_Generated_/256GRBBM6YQF0RSV2OWCHEZLY",
+				"/Game/Levels/Candyland/_Generated_/28BTTM4KCLC0TKPXMOMJ41C9R",
+				"/Game/Levels/Candyland/_Generated_/2BJN4PUJMQ4TQLKWX0PIKHQY2",
+				"/Game/Levels/Candyland/_Generated_/2COOS5MQTAPQGMXTXJKCOUALA",
+				"/Game/Levels/Candyland/_Generated_/2JY9I7SDNQBOG40VS6G2LHJQN",
+				"/Game/Levels/Candyland/_Generated_/2MMCZ1UKE8DFCKHZY5RI5I2FS",
+				"/Game/Levels/Candyland/_Generated_/3NL9JYVU121B7GO87VYIRWCHA",
+				"/Game/Levels/Candyland/_Generated_/49WA8LQYVWJC9Q5RC3625W96C",
+				"/Game/Levels/Candyland/_Generated_/4BJ2H3SFK8QS7FHFYI9F1LJTQ",
+				"/Game/Levels/Candyland/_Generated_/4FNH0DF86V5CEUU9UE9PZLUX2",
+				"/Game/Levels/Candyland/_Generated_/4PU4XD45Z5FD85TWJD4EDK2HA",
+				"/Game/Levels/Candyland/_Generated_/4SKFONOB1I0C43E5UU7NKHXLC",
+				"/Game/Levels/Candyland/_Generated_/53ESMIW0WLN1QEEOO32IHNXMP",
+				"/Game/Levels/Candyland/_Generated_/55QJSWBS0UT5S7RQHD5IGAU91",
+				"/Game/Levels/Candyland/_Generated_/5EFOJADCXTUYRN6KDC5HHZ9LM",
+				"/Game/Levels/Candyland/_Generated_/5VNKKG2JAL8JQULY70G5JX2JS",
+				"/Game/Levels/Candyland/_Generated_/5WKEVGZR2B851TGMSS60P85DZ",
+				"/Game/Levels/Candyland/_Generated_/66LQVBQR7AHIMLLPYVJCEQU83",
+				"/Game/Levels/Candyland/_Generated_/69XK3FBETCC14LBZ0LIABOJU5",
+				"/Game/Levels/Candyland/_Generated_/74ZQJRWXYO185HIPXCXTPXWM7",
+				"/Game/Levels/Candyland/_Generated_/7M5QRXVZTJBR1T5HFH2CP75V2",
+				"/Game/Levels/Candyland/_Generated_/7V53X14XJT1GM99BSVCCG0T1N",
+				"/Game/Levels/Candyland/_Generated_/84R9UJ5KJ1D9DXSFF4JBX5AKS",
+				"/Game/Levels/Candyland/_Generated_/8AMTWLRYWNP5LCULY673WLAZD",
+				"/Game/Levels/Candyland/_Generated_/8AWOER4QPYM0FC0P1Y30KXO7Y",
+				"/Game/Levels/Candyland/_Generated_/8KBIBOWD5KIO0F411AI3QQZGJ",
+				"/Game/Levels/Candyland/_Generated_/8QSDH1V5AOL1FLLJP8YX56D9O",
+				"/Game/Levels/Candyland/_Generated_/9AHWO8SHLRPV2BY13P7F8PH58",
+				"/Game/Levels/Candyland/_Generated_/9MR37Z9IUK2HN1U0BOALRSZLJ",
+				"/Game/Levels/Candyland/_Generated_/A3EB8LW6LSP2NBFFXVU25JMVU",
+				"/Game/Levels/Candyland/_Generated_/AFMLS7RV9I5RGNY7WIBNVN6VI",
+				"/Game/Levels/Candyland/_Generated_/AGOX8QWGPZEASHTBJGAZQR3QH",
+				"/Game/Levels/Candyland/_Generated_/AOTX54QR4PDIWGT7E3EGULZ63",
+				"/Game/Levels/Candyland/_Generated_/AVHLRI7KO1KLE6U22DMUHUXGO",
+				"/Game/Levels/Candyland/_Generated_/AX8NY27J3IVAUIXNH1FZK9PPQ",
+				"/Game/Levels/Candyland/_Generated_/BGJ20RLZRHC03HRR2MWKZ5EZE",
+				"/Game/Levels/Candyland/_Generated_/BJTTWW3R5HF2Q2FP7V55Q8DHK",
+				"/Game/Levels/Candyland/_Generated_/BLBWZI6SI1HHN1LTR92JDCNMO",
+				"/Game/Levels/Candyland/_Generated_/C4BB5W96YJSURMCJD0RC12YGF",
+				"/Game/Levels/Candyland/_Generated_/C6Y2GE78LIL9V0PD6DGPOAUDV",
+				"/Game/Levels/Candyland/_Generated_/CGKJJDUVB8BBVACG2Y73DBFE1",
+				"/Game/Levels/Candyland/_Generated_/CRONF6HOWMO88B58CA5FRWTFL",
+				"/Game/Levels/Candyland/_Generated_/D19KV0I16SO5NFMF516JNPXUM",
+				"/Game/Levels/Candyland/_Generated_/DAQAO27LIVCM9UCFZURJ1GR3K",
+				"/Game/Levels/Candyland/_Generated_/DBLWAYXODEBW14ARCUUE1Q2S9",
+				"/Game/Levels/Candyland/_Generated_/DTKUPWDY0JE9VN7TF5EGLXQQV",
+				"/Game/Levels/Candyland/_Generated_/DV7DK7BBEOSV0PJJJKP7Q6A0O",
+				"/Game/Levels/Candyland/_Generated_/DZPIXA4MZ4B1EKYPF7B5LD8VL",
+				"/Game/Levels/Candyland/_Generated_/E753H3PW3XKA5CEYRZVFN9Z4X",
+				"/Game/Levels/Candyland/_Generated_/EAP7I72Y3Q55SXD6DGHWMVTIJ",
+				"/Game/Levels/Candyland/_Generated_/EMQKG9J9RFGA5N5O0DMWWMXOM",
+				"/Game/Levels/Candyland/_Generated_/EN7ZUFQP2VQ2OKMFZH29GK7JZ",
+				"/Game/Levels/Candyland/_Generated_/EOIJ8OGEQAP0WFSHCH6T44NW2",
+				"/Game/Levels/Candyland/_Generated_/F36ZW0P0OJCB9NHSZLL4A5JO1",
+				"/Game/Levels/Candyland/_Generated_/F4E5J4RNWJ3G273KDMTULTA3E"
+			]
+		},
+		{
 			"ShaderMapHash": "438EC7702432B7C65389A674FAA4D54526331B3A",
 			"Assets": [
 				"/HairStrands/Materials/HairDefaultMaterial",
@@ -384,7 +460,9 @@
 			"ShaderMapHash": "FC6F9D7656D474B84689697445EC2CA439510203",
 			"Assets": [
 				"/Game/Blender/Level1/Material_001",
-				"/Game/Blender/Level1/Obtacles/RockMaterial"
+				"/Game/Blender/Level1/Obtacles/RockMaterial",
+				"/Game/Blender/Level3Candy/GumDropMat",
+				"/Game/Blender/Level3Candy/Material_001"
 			]
 		},
 		{
@@ -504,7 +582,15 @@
 		{
 			"ShaderMapHash": "D88D6FA217E20A5D0A35C5F61FB94954E5E01473",
 			"Assets": [
-				"/Game/Levels/TheForest/_Generated_/3KMANF2DADXL1TBEAVPVOTVHU"
+				"/Game/Levels/TheForest/_Generated_/3KMANF2DADXL1TBEAVPVOTVHU",
+				"/Game/Levels/TheForest/_Generated_/40KXI4R0XMIKPWTB2APX9LRBV",
+				"/Game/Levels/TheForest/_Generated_/6WDTRSSUFZ1S8QYKZLDO34DHV",
+				"/Game/Levels/TheForest/_Generated_/70MSQZ992KVK2T28YJO7SA06U",
+				"/Game/Levels/TheForest/_Generated_/9Q9ZQESX9HF5FZN0TDZKYOPUV",
+				"/Game/Levels/TheForest/_Generated_/9RTK4BNXZD07Y2B6QYBBXUSRU",
+				"/Game/Levels/TheForest/_Generated_/BE4E3OC9AC6XDV93Z6MP6F3SH",
+				"/Game/Levels/TheForest/_Generated_/BQWPC2QR8STPJ5OUZLDWG337T",
+				"/Game/Levels/TheForest/_Generated_/D4I5TC0YBQVL260L1JA6UGT5L"
 			]
 		},
 		{
@@ -516,7 +602,70 @@
 		{
 			"ShaderMapHash": "E672CCA440C72037DAFC77DDBE510C102D945520",
 			"Assets": [
-				"/Game/Levels/TheForest/_Generated_/655RLIGE06SBPCQ57YMNEM8RM"
+				"/Game/Levels/TheForest/_Generated_/0PHZ9XM8QOFG2AES57KLTA5Y9",
+				"/Game/Levels/TheForest/_Generated_/0WDJSH3KJVFJJP2BW3M947B2M",
+				"/Game/Levels/TheForest/_Generated_/1MC5TFAR8SRREALHWJ2F4LSQX",
+				"/Game/Levels/TheForest/_Generated_/1SP0GDMAL6V22RX9FFMURE2HJ",
+				"/Game/Levels/TheForest/_Generated_/1YRX225O1Q7I2AVRJSG5C6Q04",
+				"/Game/Levels/TheForest/_Generated_/21RCSBPJQI45SI0A4NEINQD91",
+				"/Game/Levels/TheForest/_Generated_/2PNX9LRKHC20ZUL0YSOUC7GA0",
+				"/Game/Levels/TheForest/_Generated_/2YVYKXZW4L859QBMTSG56FVNA",
+				"/Game/Levels/TheForest/_Generated_/32R73KF2WHLW6CRTJZ05VKA8Z",
+				"/Game/Levels/TheForest/_Generated_/3KMANF2DADXL1TBEAVPVOTVHU",
+				"/Game/Levels/TheForest/_Generated_/3PDGJQWSSZTC568WQT01O716S",
+				"/Game/Levels/TheForest/_Generated_/3WJVAYSSHZ781G6435LADVCZT",
+				"/Game/Levels/TheForest/_Generated_/40KXI4R0XMIKPWTB2APX9LRBV",
+				"/Game/Levels/TheForest/_Generated_/44FVFKGA52CFZXEJ01JR89XAK",
+				"/Game/Levels/TheForest/_Generated_/44ZOAZBOB0O1NZRZ3WL9OA490",
+				"/Game/Levels/TheForest/_Generated_/52YDA41LZG1NCIAUBELSH5VWU",
+				"/Game/Levels/TheForest/_Generated_/5G7TEA70IRM7KZ9RJN1VV9DXK",
+				"/Game/Levels/TheForest/_Generated_/63EKRRE0C9IW8QR2QOYRRUAN2",
+				"/Game/Levels/TheForest/_Generated_/655RLIGE06SBPCQ57YMNEM8RM",
+				"/Game/Levels/TheForest/_Generated_/6F08O4FBDO1RYCL4IZAY9ZZS4",
+				"/Game/Levels/TheForest/_Generated_/6JTL8T4L5U9VEXIZR67N2CHH0",
+				"/Game/Levels/TheForest/_Generated_/6NK49PB1FTQVUESJPB7NEI8QU",
+				"/Game/Levels/TheForest/_Generated_/6U2ZGYVHT10DEOGK0Q29ONU6P",
+				"/Game/Levels/TheForest/_Generated_/6WDTRSSUFZ1S8QYKZLDO34DHV",
+				"/Game/Levels/TheForest/_Generated_/70MSQZ992KVK2T28YJO7SA06U",
+				"/Game/Levels/TheForest/_Generated_/781HWN991H0URTNDYQKP5COMU",
+				"/Game/Levels/TheForest/_Generated_/7EDSW3VNB1TY5WLPL0JQ68MR1",
+				"/Game/Levels/TheForest/_Generated_/7NWMXZ256R3T24ZJ7CRQSTHQK",
+				"/Game/Levels/TheForest/_Generated_/7PXXBHRL1OEGJ382OCBCJE40H",
+				"/Game/Levels/TheForest/_Generated_/827RE3SBFHZD2LGHKYCLN79ED",
+				"/Game/Levels/TheForest/_Generated_/8DUAQR7HKRC6CQLKHVA0SZU0F",
+				"/Game/Levels/TheForest/_Generated_/8IDXI5VFD58II0X459H1TYVI8",
+				"/Game/Levels/TheForest/_Generated_/8Q5Q0IESAGR3KI3B1UCOYTQP0",
+				"/Game/Levels/TheForest/_Generated_/8RWB8POIVH1FWJUDENSM0WZDU",
+				"/Game/Levels/TheForest/_Generated_/8YJY0EB7FJSVW1UT0RUD3HD3R",
+				"/Game/Levels/TheForest/_Generated_/934ROZMPG8ZZ8Y6NYPLP0GMTX",
+				"/Game/Levels/TheForest/_Generated_/98MCY2JFF1DLC42JKN5BC5KUJ",
+				"/Game/Levels/TheForest/_Generated_/9Q78PSZZW005KH8LVK6MM63RT",
+				"/Game/Levels/TheForest/_Generated_/9Q9ZQESX9HF5FZN0TDZKYOPUV",
+				"/Game/Levels/TheForest/_Generated_/9RTK4BNXZD07Y2B6QYBBXUSRU",
+				"/Game/Levels/TheForest/_Generated_/AI3Q2C22H283QUL3XZXVRZS0I",
+				"/Game/Levels/TheForest/_Generated_/B622L936SSJS8YCOHNTTXKWQ2",
+				"/Game/Levels/TheForest/_Generated_/BB2ERQ81DH2RM0C2B63RMRGDH",
+				"/Game/Levels/TheForest/_Generated_/BCHG2RQUQOHU759I9EBZSL19Z",
+				"/Game/Levels/TheForest/_Generated_/BE4E3OC9AC6XDV93Z6MP6F3SH",
+				"/Game/Levels/TheForest/_Generated_/BEFRKIZ4NTH9MGSCKZXQDGJG7",
+				"/Game/Levels/TheForest/_Generated_/BKU2FS9C4LX045URG4OKOOSZK",
+				"/Game/Levels/TheForest/_Generated_/BQWPC2QR8STPJ5OUZLDWG337T",
+				"/Game/Levels/TheForest/_Generated_/BWV5P4NNTC02W3NJM09Y191Z7",
+				"/Game/Levels/TheForest/_Generated_/BYSYF2JERSC4ED72AQ511MKU2",
+				"/Game/Levels/TheForest/_Generated_/D4I5TC0YBQVL260L1JA6UGT5L",
+				"/Game/Levels/TheForest/_Generated_/D7L354DZEZ8NPZ8EK992A7DD1",
+				"/Game/Levels/TheForest/_Generated_/D9F7RS94BRKYU95UCMAU1WCVW",
+				"/Game/Levels/TheForest/_Generated_/DNL3S6N9BGVP67O7KFB71FN2I",
+				"/Game/Levels/TheForest/_Generated_/DPY5C0WMM02G55YQJTV57UZQO",
+				"/Game/Levels/TheForest/_Generated_/DPZT6R81WYBLCF9DKMCWOOZKL",
+				"/Game/Levels/TheForest/_Generated_/DVX1IRCMPN203YEPNTSZ7AQ4C",
+				"/Game/Levels/TheForest/_Generated_/EFMAFTURXNK2DUU5VL0WH127I",
+				"/Game/Levels/TheForest/_Generated_/EKQZNOZWLCE5WBPSBG5TZG3GD",
+				"/Game/Levels/TheForest/_Generated_/EL5CB22ILNN5USGVCR53GB62Y",
+				"/Game/Levels/TheForest/_Generated_/EPVNXKXMHNNW1IHJE74AX6ZHZ",
+				"/Game/Levels/TheForest/_Generated_/EQOB7YYP3D09RKVWI0HDV3ZDA",
+				"/Game/Levels/TheForest/_Generated_/ESQOTJ7Q5924O6HOD57B8NTDD",
+				"/Game/Levels/TheForest/_Generated_/F3ZMCAK96OXGAGIWIX87ZSQCO"
 			]
 		},
 		{
@@ -560,7 +709,14 @@
 			"Assets": [
 				"/Game/Blender/Level1/GreekWoodPillarTexture_Mat",
 				"/Game/Blender/Level2Greek/MetalWork_Mat",
+				"/Game/Blender/Level3Candy/WoodTextureCandy_Mat",
 				"/Game/Blender/ModularKit/CheckerboardPatternV2_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "F072C1A8EBA1C78E00D870EA54DBDE23111606BD",
+			"Assets": [
+				"/Game/Blender/Level3Candy/LightChoc"
 			]
 		},
 		{
@@ -606,12 +762,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9E518CB8D91C8CF7DC4E74655904BD2BDCD603A6",
-			"Assets": [
-				"/Game/Blender/Level2Greek/Clay_001"
-			]
-		},
-		{
 			"ShaderMapHash": "19AF08BB735D63C12774701BC0C2C447B5DA4F7B",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
@@ -627,6 +777,12 @@
 			"ShaderMapHash": "E2573EBF5351131F91A96B52350FF2B2602C229A",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "B6D974BFBF420B338FDC847CE5606A78A28EB7D9",
+			"Assets": [
+				"/Game/AssortedMats/CandylandFloor2"
 			]
 		},
 		{
@@ -669,6 +825,7 @@
 			"ShaderMapHash": "6275E7CE898F907E08A1DF980AAD93D8CED7CEA0",
 			"Assets": [
 				"/Game/Blender/Level2Greek/Marble_Texture_Mat",
+				"/Game/Blender/Level3Candy/CheckerboardPattern1CandyCane_Mat",
 				"/Game/Blender/ModularKit/CheckerboardPatternGreek_Mat"
 			]
 		},
@@ -676,6 +833,12 @@
 			"ShaderMapHash": "F1B202D393A5C72587D0C5E3AE0CCD173ED454A9",
 			"Assets": [
 				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "B18F77D3B1DA442E7AB1225741D15FA8D70B98D7",
+			"Assets": [
+				"/Game/Blender/Candyland_skybox"
 			]
 		},
 		{
