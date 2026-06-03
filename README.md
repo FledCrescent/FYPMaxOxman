@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/3bdbaa01-897e-4775-b1db-54331776344a
 
 
 # Pitch Deck 
-Presentation: https://www.notion.so/Notion-Pitch-Deck-Template-204f9e264e5e82849c6a8184ee3a0e1b?source=copy_link  
+Pitch Deck Slides Presentation: https://docs.google.com/presentation/d/1kdwBe_MdCAwonNdAR2yXNEnMObwV7q1TD_A6Gvbgv2U/edit?usp=sharing  
 
 # .gitignore. 
 Gitignore is used for project files too large to be uploaded to github, e.g. large skybox textures.
@@ -52,7 +52,6 @@ Google Feedback Form: https://docs.google.com/forms/d/e/1FAIpQLSdDUmVMotk2WzYgMQ
 
 Jira: https://dmufinalyearprojectgp.atlassian.net/jira/software/projects/GAM/boards/1/timeline?atlOrigin=eyJpIjoiZjYyMTZkNGEwOGMwNGUzM2IxZWNjZmJkMWU5OGMwNWYiLCJwIjoiaiJ9
 
-Pitch Deck Slides: https://docs.google.com/presentation/d/1kdwBe_MdCAwonNdAR2yXNEnMObwV7q1TD_A6Gvbgv2U/edit?usp=sharing  
 
 # Secondary Assets 
 Textures and Sounds.  
