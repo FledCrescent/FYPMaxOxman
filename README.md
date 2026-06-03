@@ -16,6 +16,8 @@ Concept Art made for the game concepting levels and designs.
 Textures and Materials made and used for visuals in Unreal Engine and materials for 3D objects made in Blender.  
 Audio used within the game are secondary assets, but has been altered by myself to fit the projects needs.
 
+# Downloadable Builds:
+https://1drv.ms/f/c/be053b1d43b77f4f/IgC4q6a9nseUSZXBQZS-AUG8AVbQopgR3DH3J-B8md2Tcs0  
 # Controls:
 Play this by holding Left Click, and fire by pressing Spacebar.  
 Press ESC or TAB to go to level select.   
