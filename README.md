@@ -16,12 +16,26 @@ Textures and Materials made and used for visuals in Unreal Engine and materials 
 Audio used within the game are secondary assets, but has been altered by myself to fit the projects needs.
 
 # Controls:
-Play this by holding Left Click, and fire by pressing Spacebar.
-Press ESC or TAB to go to level select.
+Play this by holding Left Click, and fire by pressing Spacebar.  
+Press ESC or TAB to go to level select.  
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cd356441-9741-43d2-ba3f-5987e3036218" />
 
+# Video Demos:
+
+https://github.com/user-attachments/assets/ac5e186c-4ec2-4e8e-a261-a1c20e3460c6
+
+
+
+https://github.com/user-attachments/assets/f92e0b07-753d-45ec-8632-969958675e97
+
+
+
+https://github.com/user-attachments/assets/3bdbaa01-897e-4775-b1db-54331776344a
+
+
+
 # Pitch Deck 
-https://www.notion.so/Notion-Pitch-Deck-Template-204f9e264e5e82849c6a8184ee3a0e1b?source=copy_link
+Presentation: https://www.notion.so/Notion-Pitch-Deck-Template-204f9e264e5e82849c6a8184ee3a0e1b?source=copy_link  
 
 # .gitignore. 
 Gitignore is used for project files too large to be uploaded to github, e.g. large skybox textures.
@@ -35,6 +49,10 @@ Google Feedback Form: https://docs.google.com/forms/d/e/1FAIpQLSdDUmVMotk2WzYgMQ
 
 Jira: https://dmufinalyearprojectgp.atlassian.net/jira/software/projects/GAM/boards/1/timeline?atlOrigin=eyJpIjoiZjYyMTZkNGEwOGMwNGUzM2IxZWNjZmJkMWU5OGMwNWYiLCJwIjoiaiJ9
 
+Pitch Deck Slides: https://docs.google.com/presentation/d/1kdwBe_MdCAwonNdAR2yXNEnMObwV7q1TD_A6Gvbgv2U/edit?usp=sharing  
+
 # Secondary Assets 
 Textures and Sounds.  
 Many of the textures used and altered for this free product have been gained from royalty free files from websites, Pixabay and Freepik.
+
+
