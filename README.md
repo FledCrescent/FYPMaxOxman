@@ -17,7 +17,7 @@ Audio used within the game are secondary assets, but has been altered by myself 
 
 # Controls:
 Play this by holding Left Click, and fire by pressing Spacebar.  
-Press ESC or TAB to go to level select.  
+Press ESC or TAB to go to level select.   
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cd356441-9741-43d2-ba3f-5987e3036218" />
 
 # Video Demos:
