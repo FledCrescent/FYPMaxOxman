@@ -8,8 +8,9 @@ Supervisor: Salim Hasshu.
 
 # Mini Golf Adventure GitHub Summary: 
 Made for Windows PCs.
-Download the latest build and launch executable.
+Download the latest build from one drive and launch executable.
 Unreal Engine playable experience.  
+GitHub Release: Downloadable project files.
 Blender Files & FBX Files.  
 Concept Art made for the game concepting levels and designs.  
 Textures and Materials made and used for visuals in Unreal Engine and materials for 3D objects made in Blender.  
