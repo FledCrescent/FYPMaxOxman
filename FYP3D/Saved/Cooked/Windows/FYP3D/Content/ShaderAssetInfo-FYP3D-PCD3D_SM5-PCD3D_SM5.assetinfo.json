@@ -175,75 +175,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2193581E1DED356144D94F105A05D7054331B4C5",
-			"Assets": [
-				"/Game/Levels/Candyland/_Generated_/05D4ELEPXG8R1ZXVLMKA2PPA6",
-				"/Game/Levels/Candyland/_Generated_/0H0I0WSI9EINOVFUSX0UG4JSZ",
-				"/Game/Levels/Candyland/_Generated_/0NFXZV7J1UG05T6CLQ2QVGD5Q",
-				"/Game/Levels/Candyland/_Generated_/11KUB9MLLN728ZJ7UFGI63WBI",
-				"/Game/Levels/Candyland/_Generated_/1I0R7LKK06HFXIQ3LG2X78F6X",
-				"/Game/Levels/Candyland/_Generated_/1I832J6FROT1G92MIE80QCVD9",
-				"/Game/Levels/Candyland/_Generated_/1ITIQN7FZ0C759SW3XW8F0E7A",
-				"/Game/Levels/Candyland/_Generated_/1Z2RYBDYFWXZR25BC1E19YV7F",
-				"/Game/Levels/Candyland/_Generated_/22LLXG1WPPQUPVHXSE9HSKBMU",
-				"/Game/Levels/Candyland/_Generated_/256GRBBM6YQF0RSV2OWCHEZLY",
-				"/Game/Levels/Candyland/_Generated_/28BTTM4KCLC0TKPXMOMJ41C9R",
-				"/Game/Levels/Candyland/_Generated_/2BJN4PUJMQ4TQLKWX0PIKHQY2",
-				"/Game/Levels/Candyland/_Generated_/2COOS5MQTAPQGMXTXJKCOUALA",
-				"/Game/Levels/Candyland/_Generated_/2JY9I7SDNQBOG40VS6G2LHJQN",
-				"/Game/Levels/Candyland/_Generated_/2MMCZ1UKE8DFCKHZY5RI5I2FS",
-				"/Game/Levels/Candyland/_Generated_/3NL9JYVU121B7GO87VYIRWCHA",
-				"/Game/Levels/Candyland/_Generated_/49WA8LQYVWJC9Q5RC3625W96C",
-				"/Game/Levels/Candyland/_Generated_/4BJ2H3SFK8QS7FHFYI9F1LJTQ",
-				"/Game/Levels/Candyland/_Generated_/4FNH0DF86V5CEUU9UE9PZLUX2",
-				"/Game/Levels/Candyland/_Generated_/4PU4XD45Z5FD85TWJD4EDK2HA",
-				"/Game/Levels/Candyland/_Generated_/4SKFONOB1I0C43E5UU7NKHXLC",
-				"/Game/Levels/Candyland/_Generated_/53ESMIW0WLN1QEEOO32IHNXMP",
-				"/Game/Levels/Candyland/_Generated_/55QJSWBS0UT5S7RQHD5IGAU91",
-				"/Game/Levels/Candyland/_Generated_/5EFOJADCXTUYRN6KDC5HHZ9LM",
-				"/Game/Levels/Candyland/_Generated_/5VNKKG2JAL8JQULY70G5JX2JS",
-				"/Game/Levels/Candyland/_Generated_/5WKEVGZR2B851TGMSS60P85DZ",
-				"/Game/Levels/Candyland/_Generated_/66LQVBQR7AHIMLLPYVJCEQU83",
-				"/Game/Levels/Candyland/_Generated_/69XK3FBETCC14LBZ0LIABOJU5",
-				"/Game/Levels/Candyland/_Generated_/74ZQJRWXYO185HIPXCXTPXWM7",
-				"/Game/Levels/Candyland/_Generated_/7M5QRXVZTJBR1T5HFH2CP75V2",
-				"/Game/Levels/Candyland/_Generated_/7V53X14XJT1GM99BSVCCG0T1N",
-				"/Game/Levels/Candyland/_Generated_/84R9UJ5KJ1D9DXSFF4JBX5AKS",
-				"/Game/Levels/Candyland/_Generated_/8AMTWLRYWNP5LCULY673WLAZD",
-				"/Game/Levels/Candyland/_Generated_/8AWOER4QPYM0FC0P1Y30KXO7Y",
-				"/Game/Levels/Candyland/_Generated_/8KBIBOWD5KIO0F411AI3QQZGJ",
-				"/Game/Levels/Candyland/_Generated_/8QSDH1V5AOL1FLLJP8YX56D9O",
-				"/Game/Levels/Candyland/_Generated_/9AHWO8SHLRPV2BY13P7F8PH58",
-				"/Game/Levels/Candyland/_Generated_/9MR37Z9IUK2HN1U0BOALRSZLJ",
-				"/Game/Levels/Candyland/_Generated_/A3EB8LW6LSP2NBFFXVU25JMVU",
-				"/Game/Levels/Candyland/_Generated_/AFMLS7RV9I5RGNY7WIBNVN6VI",
-				"/Game/Levels/Candyland/_Generated_/AGOX8QWGPZEASHTBJGAZQR3QH",
-				"/Game/Levels/Candyland/_Generated_/AOTX54QR4PDIWGT7E3EGULZ63",
-				"/Game/Levels/Candyland/_Generated_/AVHLRI7KO1KLE6U22DMUHUXGO",
-				"/Game/Levels/Candyland/_Generated_/AX8NY27J3IVAUIXNH1FZK9PPQ",
-				"/Game/Levels/Candyland/_Generated_/BGJ20RLZRHC03HRR2MWKZ5EZE",
-				"/Game/Levels/Candyland/_Generated_/BJTTWW3R5HF2Q2FP7V55Q8DHK",
-				"/Game/Levels/Candyland/_Generated_/BLBWZI6SI1HHN1LTR92JDCNMO",
-				"/Game/Levels/Candyland/_Generated_/C4BB5W96YJSURMCJD0RC12YGF",
-				"/Game/Levels/Candyland/_Generated_/C6Y2GE78LIL9V0PD6DGPOAUDV",
-				"/Game/Levels/Candyland/_Generated_/CGKJJDUVB8BBVACG2Y73DBFE1",
-				"/Game/Levels/Candyland/_Generated_/CRONF6HOWMO88B58CA5FRWTFL",
-				"/Game/Levels/Candyland/_Generated_/D19KV0I16SO5NFMF516JNPXUM",
-				"/Game/Levels/Candyland/_Generated_/DAQAO27LIVCM9UCFZURJ1GR3K",
-				"/Game/Levels/Candyland/_Generated_/DBLWAYXODEBW14ARCUUE1Q2S9",
-				"/Game/Levels/Candyland/_Generated_/DTKUPWDY0JE9VN7TF5EGLXQQV",
-				"/Game/Levels/Candyland/_Generated_/DV7DK7BBEOSV0PJJJKP7Q6A0O",
-				"/Game/Levels/Candyland/_Generated_/DZPIXA4MZ4B1EKYPF7B5LD8VL",
-				"/Game/Levels/Candyland/_Generated_/E753H3PW3XKA5CEYRZVFN9Z4X",
-				"/Game/Levels/Candyland/_Generated_/EAP7I72Y3Q55SXD6DGHWMVTIJ",
-				"/Game/Levels/Candyland/_Generated_/EMQKG9J9RFGA5N5O0DMWWMXOM",
-				"/Game/Levels/Candyland/_Generated_/EN7ZUFQP2VQ2OKMFZH29GK7JZ",
-				"/Game/Levels/Candyland/_Generated_/EOIJ8OGEQAP0WFSHCH6T44NW2",
-				"/Game/Levels/Candyland/_Generated_/F36ZW0P0OJCB9NHSZLL4A5JO1",
-				"/Game/Levels/Candyland/_Generated_/F4E5J4RNWJ3G273KDMTULTA3E"
-			]
-		},
-		{
 			"ShaderMapHash": "916C5C1F112A8BC021B38D5FCB559130E3924FA9",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
@@ -475,12 +406,6 @@
 			"ShaderMapHash": "A257BA61F7AE8A3F72DCC39F07479DAB9FA125C6",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_VT"
-			]
-		},
-		{
-			"ShaderMapHash": "2A84D065AF48EFA9248F68235CD0F41531AEF350",
-			"Assets": [
-				"/Game/AssortedMats/CandylandFloor2"
 			]
 		},
 		{
@@ -892,6 +817,21 @@
 			"ShaderMapHash": "57E4B4E6864FEAB4D20B4F578EF8A16FA008723C",
 			"Assets": [
 				"/Game/Blender/Level1/Material_006"
+			]
+		},
+		{
+			"ShaderMapHash": "8C79CEE6E214D32B8018C2AE155C71FA922921F3",
+			"Assets": [
+				"/Game/Levels/Candyland/_Generated_/1ITIQN7FZ0C759SW3XW8F0E7A",
+				"/Game/Levels/Candyland/_Generated_/28BTTM4KCLC0TKPXMOMJ41C9R",
+				"/Game/Levels/Candyland/_Generated_/AVHLRI7KO1KLE6U22DMUHUXGO",
+				"/Game/Levels/Candyland/_Generated_/BGJ20RLZRHC03HRR2MWKZ5EZE"
+			]
+		},
+		{
+			"ShaderMapHash": "2B5A01E707CBD1A7A05C971B85502D4EE7F7B445",
+			"Assets": [
+				"/Game/AssortedMats/CandylandFloor2"
 			]
 		},
 		{
