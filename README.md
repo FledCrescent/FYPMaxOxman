@@ -52,6 +52,7 @@ Google Feedback Form: https://docs.google.com/forms/d/e/1FAIpQLSdDUmVMotk2WzYgMQ
 
 Jira: https://dmufinalyearprojectgp.atlassian.net/jira/software/projects/GAM/boards/1/timeline?atlOrigin=eyJpIjoiZjYyMTZkNGEwOGMwNGUzM2IxZWNjZmJkMWU5OGMwNWYiLCJwIjoiaiJ9
 
+Concept Art: https://docs.google.com/presentation/d/1qp0HWk-u0V_g4P2Igksv1VHvcHt4Uwv14NvTXefMmpQ/edit?usp=sharing
 
 # Secondary Assets 
 Textures and Sounds.  
